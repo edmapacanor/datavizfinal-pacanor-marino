@@ -1,0 +1,1179 @@
+,Description,Type,location,City,price,bedroom,bathroom,floor_area
+0,2-storey apartment for rent,Apartment,Aniban I,Bacoor,18000,2,2,100
+1,"Room For Rent Near Monumento, Caloocan",Room,Grace Park East,Caloocan,5000,1,1,12
+2,"Studio Type Room for rent at Brgy. 97 Grace Park East, Caloocan City",Room,Grace Park East,Caloocan,3500,1,1,20
+3,"Apartment for rent in Camarin, Caloocan",Apartment,Camarin,Caloocan,5500,1,1,20
+4,Apartment for Lease in Caloocan,Apartment,Biglang-Awa,Caloocan,10000,1,1,23
+5,"1 Bedroom Loft Type Apartment For Rent in Grace Park East, Caloocan City",Apartment,Grace Park East,Caloocan,9000,1,1,30
+6,"Apartment For Rent at Caloocan, Metro Manila",Apartment,Grace Park East,Caloocan,8000,1,1,30
+7,Apartment for rent in Caloocan,Apartment,Grace Park East,Caloocan,8000,1,1,55
+8,Apartment for rent in caloocan,Apartment,Amparo,Caloocan,8000,1,1,59
+9,Apartment for rent in caloocan,Apartment,Grace Park West,Caloocan,8000,1,1,59
+10,Apartment for rent in caloocan,Apartment,Grace Park East,Caloocan,8000,1,1,59
+11,"Apartment unit for rent in Grace Park East, Caloocan city, Metro Manila",Apartment,Grace Park East,Caloocan,8000,1,1,59
+12,Fully Furnished Secure Apartment with 1 Parking Space,Apartment,Maypajo,Caloocan,18500,1,1,68
+13,"Apartment for Rent in Bagong Silang, Caloocan City",Apartment,Bagong Silang,Caloocan,4000,1,1,600
+14,"Commercial Space / Studio Apartment for Rent in Bagumbong, Caloocan City",Apartment,Bagumbong,Caloocan,7500,1,1,0
+15,Bedspace for Ladies Only (South Caloocan),Bedspace,Sangandaan,Caloocan,3500,1,1,0
+16,"Lady Bedspacer, Caloocan City",Bedspace,Grace Park West,Caloocan,1500,1,1,0
+17,Lady Bedspacer Deparo Caloocan,Bedspace,Deparo,Caloocan,1600,1,1,0
+18,Studio Apartment Across UE STI Caloocan for rent in Caloocan City,Apartment,University Hills Subdivision,Caloocan,7500,1,1,0
+19,Room for Rent studio type with metal loaf bed,Room,Talipapa,Caloocan,7000,1,1,0
+20,"Unfurnished 2BR Unit in 5-Storey Residential Building for Rent, Caloocan City",Building,Grace Park East,Caloocan,15000,2,1,60
+21,"Large 2 bedroom for Rent in East Grace Park, Caloocan",Room,Grace Park East,Caloocan,15000,2,1,60
+22,New 4 Units Apartment for Rent SM Fairview & Ayala Land Terraces Q.C.,Apartment,Camarin,Caloocan,16000,2,1,60
+23,For Rent Apartment in Caloocan,Apartment,Bagong Silang,Caloocan,10000,2,1,0
+24,"Bedspace for Female at Camarin, Caloocan",Bedspace,Camarin,Caloocan,3000,2,1,0
+25,Male bedspace for rent,Bedspace,C-3 Road  Kaunlaran Village,Caloocan,1800,1,2,40
+26,Bedspace for Rent,Bedspace,C-3 Road  Kaunlaran Village,Caloocan,1999,2,2,35
+27,Male bedspace for rent in Caloocan South area,Bedspace,Bagong Silang,Caloocan,2000,2,2,300
+28,Bedspace for Rent in Capitol Park Homes 2,Bedspace,Camarin,Caloocan,2000,5,2,0
+29,For RENT: 2 Bedroom Flat Type Apartment,Apartment,Baesa,Caloocan,7000,2,0,26
+30,1 Bedroom Apartment with partial furnishings,Apartment,Talon Tres,Las Pinas,3300,1,1,8
+31,BF Resort Village Solo Room for rent ( For Local Female Only ),Room,Talon Dos,Las Pinas,5500,1,1,10
+32,Solo Room for Rent at BF Resort Village Las Pinas,Room,Talon Dos,Las Pinas,5500,1,1,10
+33,BF Resort Village Solo Room for Local Female For Rent,Room,Talon Dos,Las Pinas,5500,1,1,10
+34,BF Resort Village Solo Room for Local Female For Rent,Room,Talon Dos,Las Pinas,5500,1,1,10
+35,Solo Room for Rent at BF Resort Village Las Pinas,Room,Talon Dos,Las Pinas,5500,1,1,10
+36,BF Resort Village Solo Room for rent ( For Local Female Only ),Room,Talon Dos,Las Pinas,5500,1,1,10
+37,Studio Type Apartment in Alabang for Rent,Apartment,Almanza Dos,Las Pinas,8000,1,1,11
+38,"Fully furnished rooms with FREE WiFi for only P7,500! Move In now!",Room,Almanza Dos,Las Pinas,7500,1,1,11
+39,BFRV Solo Room for Female ( Locals Only ),Room,Talon Dos,Las Pinas,5500,1,1,12
+40,Apartment For Rent Las Pinas Almanza Uno Alabang-Zapote Road near SM Southmall,Apartment,Almanza Uno,Las Pinas,5000,1,1,12
+41,BFRV Solo Room for Female ( Locals Only ),Room,Talon Dos,Las Pinas,5500,1,1,12
+42,"Bedspace for Ladies, Las Pinas",Bedspace,,Las Pinas,2500,1,1,13
+43,"Orange Suites Serviced Apartments  Almanza Dos, Las Pinas City",Apartment,Almanza Dos,Las Pinas,8000,1,1,14
+44,Solo Room with Free Internet,Room,Pamplona Tres,Las Pinas,7500,1,1,14
+45,Room for Rent Las Pinas,Room,Pamplona Tres,Las Pinas,5000,1,1,15
+46,Las Pinas Studio Apartment For Rent,Apartment,Talon Singko,Las Pinas,5500,1,1,15
+47,Las Pinas Studio Apartment For Rent,Apartment,Talon Singko,Las Pinas,5500,1,1,15
+48,Studio Unit for Young Couples in Las Pinas City,Apartment,Talon Dos,Las Pinas,6500,1,1,16
+49,Studio Unit for Young Couples in Las Pinas City,Apartment,Talon Dos,Las Pinas,6500,1,1,16
+50,Apartment studio type las pinas,Apartment,Pamplona Dos,Las Pinas,9000,1,1,18
+51,Studio type Apartment Las Pinas,Apartment,Pamplona Dos,Las Pinas,8000,1,1,18
+52,Apartment studio type for rent at Pamplona park subdivision,Apartment,Pamplona Dos,Las Pinas,10000,1,1,18
+53,Apartment studio type for rent at Pamplona park subdivision,Apartment,Pamplona Dos,Las Pinas,10000,1,1,18
+54,Apartment studio type las pinas,Apartment,Pamplona Dos,Las Pinas,9000,1,1,18
+55,Studio type Apartment Las Pinas,Apartment,Pamplona Dos,Las Pinas,8000,1,1,18
+56,"Studio Type Apartment located along Pamplona Tres, Las Pinas City",Apartment,Pamplona Tres,Las Pinas,7000,1,1,19
+57,Apartment studio type for rent,Apartment,Pamplona Dos,Las Pinas,9000,1,1,20
+58,Apartment studio type for rent,Apartment,Pamplona Dos,Las Pinas,9000,1,1,20
+59,"For Rent: Unit D- Studio Type Apartment Complex in Pamplona Tres, Las Pinas City",Apartment,Pamplona Tres,Las Pinas,10000,1,1,24
+60,"For Rent: Unit E- Studio Type Apartment Complex in Pamplona Tres, Las Pinas City",Apartment,Pamplona Tres,Las Pinas,10000,1,1,24
+61,"For Rent: Unit F- Studio Type Apartment Complex in Pamplona Tres, Las Pinas City",Apartment,Pamplona Tres,Las Pinas,10000,1,1,24
+62,"For Rent: Unit C- Studio Type Apartment Complex in Pamplona Tres, Las Pinas City",Apartment,Pamplona Tres,Las Pinas,10000,1,1,24
+63,"For Rent: Unit B- Studio Type Apartment Complex in Pamplona Tres, Las Pinas City",Apartment,Pamplona Tres,Las Pinas,10000,1,1,24
+64,"1 Bedroom Unit Apartment for Rent at Pulang Lupa Dos, Las Pinas",Apartment,Pulang Lupa Dos,Las Pinas,6000,1,1,25
+65,"1 Bedroom Apartment in Sta. Cecilia Village, Las Pinas",Apartment,Talon Dos,Las Pinas,10500,1,1,30
+66,"Room for rent furnished in in Pulang Lupa Dos, Las Pinas City",Room,Pulang Lupa Dos,Las Pinas,8000,1,1,30
+67,Flood-Free Apartment for Rent in Las Pinas,Apartment,Almanza Uno,Las Pinas,12000,1,1,32
+68,"Studio Unit - 2C for lease at Pilar Village, Las Pinas",Apartment,Pilar,Las Pinas,16000,1,1,32
+69,"Studio Room for Rent, Las Pinas",Room,B.F. International Village,Las Pinas,6500,1,1,35
+70,"1 Bedroom Unit near SM Southmall, Doña Josefa Vill, Alabang Town Center for rent",Room,Almanza Uno,Las Pinas,8000,1,1,37
+71,Alabang Dormitory : First Month Free near ATC & Northgate,Dormitory,Almanza Dos,Las Pinas,5300,1,1,40
+72,"For Rent Lady Bedspace at BFRV Talon Dos, Las Pinas City",Bedspace,Talon Dos,Las Pinas,4500,1,1,50
+73,"For Rent Lady Bedspace at BFRV Talon Dos, Las Pinas City",Bedspace,Talon Dos,Las Pinas,4500,1,1,50
+74,Residential Apartment For Rent (2nd Floor Of A Three-Storey Building),Apartment,Talon Singko,Las Pinas,7500,1,1,60
+75,Residential Apartment For Rent (2nd Floor Of A Three-Storey Building),Apartment,Talon Singko,Las Pinas,7500,1,1,60
+76,For Rent Studio Type Apartment at  Talon 4 village,Apartment,Talon Kuatro,Las Pinas,6800,1,1,0
+77,"Studio Condo - Apartment for Rent in Las Pinas, Metro Manila",Apartment,Almanza Dos,Las Pinas,7500,1,1,0
+78,"Room for rent (for Ladies) at Almanza Uno, Las Pinas",Room,Almanza Uno,Las Pinas,3500,1,1,0
+79,1 Bedroom Apartment with Loft,Apartment,Almanza Uno,Las Pinas,6000,1,1,0
+80,"Apartment for Rent - Studio Type at Pamplona Tres, Las Pinas",Apartment,Pamplona Tres,Las Pinas,8000,1,1,0
+81,"Apartment for Rent in Alabang for P15.5k, 2 Bedrooms. near Northgate & ATC",Apartment,Almanza Dos,Las Pinas,15500,2,1,40
+82,2 Bedroom Apartment in Manuyo Dos Las Pinas,Apartment,Manuyo Dos,Las Pinas,10000,2,1,47
+83,"For Rent: 2 Storey Apartment in San Isidro Subdivision Pamplona Uno, Las Pinas",Apartment,Pamplona Uno,Las Pinas,9000,2,1,60
+84,Room for Rent in Las Pinas City,Room,Pamplona Tres,Las Pinas,3500,2,1,0
+85,"2 Bedroom, 2 Toilet and Bath with garage For Rent in Las Pinas",Room,Pulang Lupa Dos,Las Pinas,25000,2,2,50
+86,Apartment for Rent in BF Resort Village,Apartment,Talon Dos,Las Pinas,22000,2,2,180
+87,Apartment for Rent in BF Resort Village,Apartment,Talon Dos,Las Pinas,22000,2,2,180
+88,2-Storey Apartment For Rent,Apartment,Talon Tres,Las Pinas,20000,2,2,0
+89,Bedspace for Ladies For Rent in Las Pinas near Alabang,Bedspace,Almanza Uno,Las Pinas,2300,3,2,64
+90,3 bedrooms 3 storey townhouse for rent in Las Pinas,Room,Pamplona Dos,Las Pinas,25000,3,2,70
+91,3 bedrooms 3 storey townhouse for rent in Las Pinas,Room,Pamplona Dos,Las Pinas,25000,3,2,70
+92,3 Bedroom Apartment For Rent at Las Pinas,Apartment,Talon Dos,Las Pinas,25000,3,2,90
+93,3 Bedroom Apartment For Rent at Las Pinas,Apartment,Talon Dos,Las Pinas,25000,3,2,90
+94,"Townhouse For Rent 3 Bedrooms, 2 T&B, 1 Car Garage Covered in Pilar Village",Room,Pilar,Las Pinas,20000,3,2,140
+95,"Townhouse For Rent 3 Bedrooms, 2 T&B, 1 Car Garage Covered in Pilar Village",Room,Pilar,Las Pinas,20000,3,2,140
+98,Apartment for Rent BF Resort Las Pinas,Apartment,Talon Dos,Las Pinas,25000,3,2,250
+99,Apartment for Rent BF Resort Las Pinas,Apartment,Talon Dos,Las Pinas,25000,3,2,250
+100,"Ladies Bedspace For Rent near Alabang Town Center and SM Southmall, Las Pinas",Bedspace,Almanza Uno,Las Pinas,2300,3,2,0
+101,Room for lady boarders,Room,Pamplona Tres,Las Pinas,2500,4,2,18
+102,3BR 3TB with Attic Duplex Apartment for rent in BF Resort Las Pinas,Apartment,Talon Dos,Las Pinas,30000,3,3,120
+103,3BR 3TB with Attic Duplex Apartment for rent in BF Resort Las Pinas,Apartment,Talon Dos,Las Pinas,30000,3,3,120
+105,Female Bedspace for Rent in Las Pinas,Bedspace,Pamplona Uno,Las Pinas,2500,4,4,13
+113,Furnished Apartment for rent in Alabang Near ATC (Free Room Upgrade),Apartment,Almanza Dos,Las Pinas,8000,1,0,0
+114,Bedspace for rent (Ladies Only) at Las Pinas,Bedspace,Pamplona Tres,Las Pinas,2000,2,0,0
+115,Studio Type For Rent,Apartment,South Cembo,Makati,9500,1,1,1
+116,Room for rent with discount in Makati City,Room,San Isidro,Makati,5000,1,1,7
+117,DISCOUNTED Solo Room with CR only near BGC and Guadalupe MRT Station,Room,Guadalupe Nuevo,Makati,6500,1,1,8
+118,"1 Ladies Bedroom Apartment for rent in Poblacion, Makati near Rockwell",Apartment,Poblacion,Makati,11000,1,1,8
+119,Room for Rent Makati,Room,Guadalupe Nuevo,Makati,6500,1,1,9
+120,Studio Type Room located at Balagtas st corner San Nicolas st Guadalupe Nuevo,Room,Guadalupe Nuevo,Makati,6500,1,1,9
+121,Makati Rooms near Ayala and The Circuit for Rent,Room,Santa Cruz,Makati,6500,1,1,10
+122,"Room for Rent in Guadalupe Bliss, Makati City, Metro Manila",Room,Guadalupe Nuevo,Makati,8000,1,1,10
+123,"San Antonio, Makati room with own CR for Rent @5000",Room,San Antonio,Makati,5000,1,1,11
+124,big solo room with balcony now available,Room,Bangkal,Makati,8000,1,1,12
+125,Bare Studio Unit in Makati accessible to all rides,Apartment,Guadalupe Viejo,Makati,8500,1,1,12
+126,"Studio Apartment for Rent at Guadalupe Nuevo, Makati",Apartment,Guadalupe Nuevo,Makati,8500,1,1,12
+127,Furnished Studio Unit in Makati accessible to all rides,Apartment,Guadalupe Viejo,Makati,10000,1,1,12
+128,"Studio Apartment for Rent at Guadalupe Nuevo, Makati",Apartment,Guadalupe Nuevo,Makati,8500,1,1,12
+129,"Capsule Type Bedspace for Rent, Makati",Bedspace,Olympia,Makati,4000,1,1,13
+130,Brand New Studio Apartment for Rent,Apartment,La Paz,Makati,9500,1,1,14
+131,Studio Apartment Room for Rent Makati Circuit Chino Roces RCBC Ayala,Apartment,La Paz,Makati,9500,1,1,14
+132,For Rent New Budget Studio near Makati & BGC,Apartment,Guadalupe Nuevo,Makati,9600,1,1,14
+133,"Studio Apartment Room for rent Makati -Guadalupe MRT, Rockwell, Ayala",Apartment,Guadalupe Viejo,Makati,10000,1,1,15
+134,Apartment for Rent near Makati Ave & Buendia 9500 mothly,Apartment,Poblacion,Makati,9500,1,1,15
+135,Makati Studio Unit for Rent at Urban Spaces Bangkal or U.S.B.,Apartment,Bangkal,Makati,8500,1,1,15
+136,studio room apartment for rent near bgc and guadalupe nuevo makati,Apartment,Guadalupe Nuevo,Makati,9000,1,1,15
+137,Studio Apartment near BGC,Apartment,Rizal,Makati,6000,1,1,15
+138,"Promo! 3,500/bed Smart Studios Dorm walking distance to BGC/Kalayaan",Apartment,West Rembo,Makati,3500,1,1,15
+139,"Studio Apartment For Rent, Godet stree Baranggay Lapaz, makati City",Apartment,La Paz,Makati,8000,1,1,15
+140,Studio/Loft type apartment units for rent in Makati City near offices & malls.,Apartment,Pio Del Pilar,Makati,14000,1,1,16
+141,Apartment for Rent in Makati,Apartment,West Rembo,Makati,8000,1,1,16
+143,Bare Studio Apartment for Rent - Guadalupe Viejo Makati,Apartment,Guadalupe Viejo,Makati,9500,1,1,16
+144,Guadalupe Viejo Makati Studio Apartment for Rent,Apartment,Guadalupe Viejo,Makati,12000,1,1,16
+145,Bare & Furnished Studio Type Near BGC Uptown Mall for rent,Apartment,West Rembo,Makati,8500,1,1,17
+146,Available Studio Unit with loft for rent,Apartment,Poblacion,Makati,11000,1,1,18
+147,"Makati condo php 10,000 up for rent nr edsa kalayaan, studio",Apartment,Guadalupe Nuevo,Makati,10000,1,1,18
+148,Affordable Makati Studio Unit near City Hall,Apartment,Valenzuela,Makati,12000,1,1,19
+149,"For Rent: Fully-furnished studio unit for 2 persons in Pio del Pilar, Makati",Apartment,Pio Del Pilar,Makati,24000,1,1,20
+150,"Apartment 4 Rent in Cembo, Kalayaan Avenue, Makati",Apartment,Cembo,Makati,10000,1,1,20
+151,Spacious Studio at the Heart of Makati,Apartment,Poblacion,Makati,12800,1,1,20
+152,Studio Room for Rent in Makati Convenient Location,Room,Tejeros,Makati,8000,1,1,20
+153,Budget-friendly One Bedroom Unit,Room,Legazpi Village,Makati,14000,1,1,20
+154,"Female Bedspace for Rent, Makati City",Bedspace,Guadalupe Nuevo,Makati,3500,1,1,20
+155,Comfortable Safe Apartment for Rent in Makati close to Makati Business District,Apartment,Tejeros,Makati,11000,1,1,20
+156,Room For Rent Studio Unit For Couple Only Fully Furnished in Makati near BGC,Room,East Rembo,Makati,8500,1,1,20
+157,"For Rent: Fully-furnished studio unit for 2 persons in Pio del Pilar, Makati",Apartment,Pio Del Pilar,Makati,24000,1,1,20
+158,Makati Apartment 1-Br Unit for Rent,Apartment,Bangkal,Makati,15000,1,1,21
+159,Studio Aircon unit near Ayala Circuit & RCBC Plaza,Apartment,Carmona,Makati,11000,1,1,22
+160,"For Rent 1 Room with CR and Sink Apartment with Parking in West Rembo, Makati",Apartment,West Rembo,Makati,3599,1,1,22
+161,"Bare Studio Unit Apartment for Rent at Sampaguita Extension,  Rizal, Makati",Apartment,Rizal,Makati,10000,1,1,22
+162,Studio Type Room near Market Market BGC,Room,Salcedo Village,Makati,8400,1,1,22
+163,Condo Sharing at Eton Tower Makati for rent,Condo,Legazpi Village,Makati,11000,1,1,22
+164,"For Rent: Unfurnished Studio with Balcony at The Celerio, Tejeros, Makati City",Apartment,Tejeros,Makati,12500,1,1,23
+165,"For Rent: Unfurnished Studio Unit at The Celerio, Tejeros, Makati City",Apartment,Tejeros,Makati,11000,1,1,23
+166,Male bedspace/Condo sharing at Avida Towers Asten for rent in Makati,Bedspace,San Antonio,Makati,7000,1,1,23
+167,"For Rent: Furnished Studio Unit at The Celerio, Tejeros, Makati City",Apartment,Tejeros,Makati,14000,1,1,23
+168,1-Bedroom Apartment for Rent in Makati (newly constructed in 2020),Apartment,Valenzuela,Makati,13500,1,1,24
+169,Apartment for Rent in Makati Poblacion Rockwell Jupiter Century City Ayala Eddie,Apartment,Poblacion,Makati,13000,1,1,25
+170,Studio type apartment forrent,Apartment,Pembo,Makati,8000,1,1,25
+171,"Studio Condo for Rent in Poblacion, Makati City, Makati Prime Tower Eddie Co",Apartment,Bel-Air,Makati,11700,1,1,25
+172,Apartment with 1 Bedroom at Comembo Makati near BGC Taguig,Apartment,Comembo,Makati,10300,1,1,25
+173,"1-Bedroom Apartment for Rent in Pembo, Makati City",Apartment,Pembo,Makati,14000,1,1,25
+174,Newly Painted Apartment for Rent in Makati Poblacion Rockwell,Apartment,Poblacion,Makati,10000,1,1,26
+175,"New 1 bedroom fully furnished apartment in San Antonio Village, Makati",Apartment,San Antonio,Makati,20000,1,1,27
+176,Newly Painted Apartment for Rent in Makati Poblacion Rockwell Jupiter Century Ci,Apartment,Poblacion,Makati,14000,1,1,28
+177,Apartment for Rent in Brgy. Rizal Makati near McKinley and BGC,Apartment,Rizal,Makati,7500,1,1,28
+178,Brand New fully furnished 1 bedroom apartment in San Antonio Village,Apartment,San Antonio,Makati,25000,1,1,28
+179,La paz makati 1 bedroom furnished for rent,Room,La Paz,Makati,12500,1,1,28
+180,El Rico Suite offers 1BR and 2BR Condo,Condo,Santa Cruz,Makati,25000,1,1,30
+181,"1 Bedroom for Rent in Makati, Nice & Safe, Near Circuit Mall, PRC, J P Rizal",Room,Tejeros,Makati,11000,1,1,30
+182,8K - 1BR Apartment near BGC and Mckinley Area,Apartment,Rizal,Makati,8000,1,1,30
+183,"Nice & Safe Apartment for Rent in Makati, Near Circuit, Chino Roces, P Tirad",Apartment,Tejeros,Makati,10500,1,1,30
+184,Studio type for rent in Comembo,Apartment,East Rembo,Makati,6000,1,1,30
+185,"bedspace, dorm makati near circuit ayala mall",Bedspace,Carmona,Makati,3800,1,1,30
+187,"Apartment for Rent in Makati for P12.5k. 1 Bedroom near BGC, The Fort., McKinley",Apartment,Rizal,Makati,12500,1,1,30
+188,Makati Loft type room with Kitchen and CR in 1161 Batangas St Pio del Pilar Mkt,Room,Pio Del Pilar,Makati,15000,1,1,30
+189,"Male Condo Sharing at MMC House Condominium, Makati",Condo,Pio Del Pilar,Makati,3745,1,1,30
+190,"Apartment For Rent at Makati, Metro Manila in Prince Plaza 2",Apartment,Legazpi Village,Makati,30000,1,1,31
+192,Condo-sharing or Bedspace for females at Avida Towers San Lorenzo Makati,Bedspace,San Lorenzo,Makati,3745,1,1,32
+193,"Kalayaan Ave., Makati Near Cor. Roxas St. Apt w/ View Deck, 33 SQM, 1BR, Parking Condo",Condo,Olympia,Makati,18000,1,1,33
+194,1 bedroom apartment near uptown mall,Apartment,West Rembo,Makati,10000,1,1,35
+196,1 bedroom apartment  good for 3 to 4 person,Apartment,West Rembo,Makati,10000,1,1,35
+198,"For Rent: 36.32 sqm 1 Bedroom Unit in Guijo Center San Antonio Village, Makati",Room,San Antonio,Makati,25424,1,1,36
+199,Low priced super spacious furnished apartment in ground floor of big house,Apartment,Urdaneta,Makati,29000,1,1,40
+200,Furnished 1 bedroom apartment near Rockwell Makati,Apartment,Poblacion,Makati,25000,1,1,40
+201,"Apartment for rent in #2684 Brgy. Olympia, South Ave., Makati City",Apartment,Olympia,Makati,16500,1,1,40
+202,"4th Floor Unit Apartment in Lansones Street, Comembo Makati for rent",Apartment,Comembo,Makati,14000,1,1,40
+203,Makati Bangkal Apartment w/ 1Bdrm 40sqm,Apartment,Bangkal,Makati,16000,1,1,40
+204,Apartment Unit in Makati for Lease,Apartment,San Antonio,Makati,16000,1,1,44
+205,1 Bedroom Condo-type Apartment/Penthouse in Bangkal Makati For Rent,Apartment,Bangkal,Makati,15000,1,1,50
+206,"Condo sharing for ladies for rent in Legazpi Village, Makati City",Condo,Legazpi Village,Makati,6000,1,1,51
+207,"Female Bedspace for rent in Olympia, Makati City, Metro Manila",Bedspace,Olympia,Makati,2500,1,1,53
+208,Room for Rent,Room,Guadalupe Nuevo,Makati,10000,1,1,0
+209,Male Condo/sharing,Condo,Pio Del Pilar,Makati,3500,1,1,0
+210,1 Bedroom Apartment With CR and Kitchen,Apartment,Olympia,Makati,10000,1,1,0
+211,TRP Bldg: Makati Apartment for rent,Apartment,Pio Del Pilar,Makati,11000,1,1,0
+212,"Room for Rent in Barangay Rizal, Makati City, Metro Manila",Room,Rizal,Makati,5000,1,1,0
+213,"1BR unit at Roma Plaza for Rent, Makati City",Condo,Poblacion,Makati,10000,1,1,0
+214,"For Rent: MyTown New York 2-Bed Sharing Furnished Unit in Guadalupe Nuevo, Makati | n...",Condo,Guadalupe Nuevo,Makati,8870,1,1,0
+215,"For Rent: MyTown London 4-Bed Sharing Furnished Unit in Guadalupe Nuevo, Makati | nea...",Condo,Guadalupe Nuevo,Makati,4400,1,1,0
+216,"For Rent: MyTown Athens Corporate Staff Housing with Condo-style Amenities in Cembo, ...",Condo,Cembo,Makati,4400,1,1,0
+217,"For Rent: MyTown Hong Kong 2-Bed Sharing Furnished Unit in West Rembo, Makati | near ...",Condo,West Rembo,Makati,8510,1,1,0
+218,Bedspace for Rent at Makati Executive Tower 2,Bedspace,Pio Del Pilar,Makati,3745,1,1,0
+219,"Room for Rent in Guadalupe Bliss, Makati",Room,Cembo,Makati,5500,1,1,0
+220,1 Bedroom for rent in Makati,Room,Santa Cruz,Makati,12000,1,1,0
+221,"Dormitory for Rent at Happy Planet Dorm, Makati",Dormitory,Palanan,Makati,3000,1,1,0
+222,Ladies' Bedspace for Rent near BGC,Bedspace,Pitogo,Makati,3000,1,1,0
+223,"Lady Bedspace for Rent, Makati",Bedspace,Kasilawan,Makati,3500,1,1,0
+224,"Male Bedspace for Rent, Makati",Bedspace,Pio Del Pilar,Makati,3500,1,1,0
+225,"Bedspace for Rent, Makati",Bedspace,Pinagkaisahan,Makati,5000,1,1,0
+226,"Lady Bedspace for Rent in Poblacion, Makati",Bedspace,Poblacion,Makati,3500,1,1,0
+227,Fully-furnished Co-Living Spaces at Cabana Suites Makati Condo,Condo,Guadalupe Nuevo,Makati,3500,1,1,0
+228,"Bedspace for girls only at Rizal, Makati City",Bedspace,Rizal,Makati,3000,1,1,0
+229,staff House for lease near bgc uptown,House,West Rembo,Makati,19000,1,1,0
+230,"For Rent: MyTown London 2-Bed Sharing Furnished Unit in Guadalupe Nuevo, Makati | nea...",Condo,Guadalupe Nuevo,Makati,8510,1,1,0
+231,"For Rent: MyTown Paris Queen Room Furnished Unit in Pembo, Makati | near Market Marke...",Room,Pembo,Makati,9500,1,1,0
+232,"For Rent: MyTown Kyoto 2-Bed Sharing Furnished Unit in Pitogo, Makati | near 32nd St....",Condo,Pitogo,Makati,8510,1,1,0
+233,"For Rent: MyTown Rio 6-Bed Sharing Furnished Unit in Pembo, Makati | near Market!Mark...",Condo,Pembo,Makati,4250,1,1,0
+234,"Capsule room for rent in Bangkal, Makati, Metro Manila",Room,Bangkal,Makati,2500,1,1,0
+235,1BR Apartment in Makati City,Apartment,Guadalupe Nuevo,Makati,12000,1,1,0
+236,"Makati Bedspace near BGC, Ayala and Buendia",Bedspace,Pinagkaisahan,Makati,4050,1,1,0
+237,"Room at Nobel St. for Rent, Makati",Room,San Isidro,Makati,12000,1,1,0
+238,Bedspace in Boarding House near MRT Guadalupe Station,Bedspace,Cembo,Makati,2600,1,1,0
+239,"Bedspace For Rent in Santa Cruz, Makati",Bedspace,Santa Cruz,Makati,4000,1,1,0
+240,"Makati Bedspace near BGC, Ayala, Buendia and EDSA",Bedspace,Pinagkaisahan,Makati,4760,1,1,0
+241,"Female Bedspace for Rent at Comembo, Makati",Bedspace,Comembo,Makati,3250,1,1,0
+242,"Bedspace in MyTown, Makati",Bedspace,Guadalupe Nuevo,Makati,3500,1,1,0
+243,Brand New Studio Apartment Room for Rent in Makati City,Apartment,La Paz,Makati,9000,1,1,0
+244,"For Rent: MyTown New York 4-Bed Sharing Furnished Unit in Guadalupe Nuevo, Makati | n...",Condo,Guadalupe Nuevo,Makati,4650,1,1,0
+245,"For Rent: MyTown Tokyo  2-Bed Sharing Furnished Unit in Pitogo, Makati | near 32nd St...",Condo,Pitogo,Makati,8510,1,1,0
+246,"Female Bedspace for Rent, Makati",Bedspace,Chino Roces,Makati,4000,1,1,0
+247,"Brand New 1 bedroom fully furnished apartment in San Antonio Village, Makati",Apartment,San Antonio,Makati,25000,1,1,0
+248,Female Bedspace Guadalupe Makati MRT,Bedspace,Guadalupe Nuevo,Makati,2990,1,1,0
+249,Bedspacer Condotype Unit in Makati for rent,Bedspace,San Isidro,Makati,3500,1,1,0
+250,"For Rent: MyTown Amsterdam 2-Bed Sharing Furnished Unit in Pitogo, Makati | near 32nd...",Condo,Pitogo,Makati,8870,1,1,0
+251,"For Rent: MyTown New York Private Queen Furnished Room in Guadalupe Nuevo, Makati | n...",Room,Guadalupe Nuevo,Makati,17260,1,1,0
+252,"For Rent: MyTown Amsterdam 6-Bed Sharing Furnished Unit in Pitogo, Makati | near 32nd...",Condo,Pitogo,Makati,4610,1,1,0
+253,"For Rent: MyTown Rio 2-Bed Sharing Furnished Unit in Pembo, Makati | near Market!Mark...",Condo,Pembo,Makati,8510,1,1,0
+254,Male Bedspace for Rent in Makati,Bedspace,Olympia,Makati,3650,1,1,0
+255,"Bedspace For Female In Makati Near BGC, Market Market",Bedspace,Rizal,Makati,3000,1,1,0
+256,Room for Rent Makati,Room,Palanan,Makati,10000,1,1,0
+257,Lady Bedspace in Makati for Rent,Bedspace,Valenzuela,Makati,3900,1,1,0
+258,"Female Bedspace at Ridgewood Towers, Makati",Bedspace,Pembo,Makati,3800,1,1,0
+259,Aircon capsule room for rent near ayala buendia makati pio del pilar,Room,Pio Del Pilar,Makati,4950,1,1,0
+260,"Capsule type room for rent near BGC, East Rembo, Makati City",Room,East Rembo,Makati,2000,1,1,0
+261,"For Rent: MyTown Hong Kong 4-Bed Sharing Furnished Unit in West Rembo, Makati | near ...",Condo,West Rembo,Makati,4400,1,1,0
+262,"For Rent: MyTown Paris Bed Sharing Furnished Unit with Amenities in Pembo, Makati | n...",Condo,Pembo,Makati,8000,1,1,0
+263,For Rent: MyTown Auckland Corporate Staff Housing with Condo-style Amenities in Pinag...,Condo,Pinagkaisahan,Makati,4760,1,1,0
+264,"For Rent: MyTown Amsterdam 4-Bed Sharing Furnished Unit in Pitogo, Makati | near 32nd...",Condo,Pitogo,Makati,4760,1,1,0
+265,"For Rent: MyTown Tokyo 4-Bed Sharing Furnished Unit in Pitogo, Makati | near 32nd St....",Condo,Pitogo,Makati,4300,1,1,0
+266,Apartment in Makati,Apartment,San Isidro,Makati,27000,2,1,14
+267,"studio type unit in pgrc building, sampaguita st. corner camia st. pembo makati",Building,Pembo,Makati,12000,2,1,20
+268,Makati city dorm and bedspace,Bedspace,Pio Del Pilar,Makati,3745,2,1,20
+269,Clean and affordable Two Bedroom Apartment,Apartment,Pembo,Makati,15000,2,1,20
+270,Condo @ 16k ONLY! Near CBD and MRT,Condo,Bangkal,Makati,16000,2,1,21
+271,Lady Bedspacers Circuit Ayala Mall Makati,Bedspace,Olympia,Makati,3800,2,1,30
+272,"Makati female bedspace for rent (P2,500/month) Available from Dec 19, 2016",Bedspace,Olympia,Makati,3650,2,1,30
+273,"2-Bedroom Apartment for Rent in Pembo, Makati |Walking Distance to Market Market",Apartment,Pembo,Makati,19000,2,1,35
+274,"Apartment for Rent in Makati for 15k. 2 Bedrooms near BGC, The Fort, and Ayala",Apartment,Comembo,Makati,15000,2,1,35
+275,2BR and 1BR Gated-Apartment near BGC,Apartment,Rizal,Makati,10000,2,1,38
+276,2 Bedroom Apartment for rent near BGC Market Market SM Aura McKinley Hill Makati,Apartment,Rizal,Makati,13000,2,1,40
+277,"2 Bedroom Apartment for Rent in West Rembo, Makati, Metro Manila",Apartment,West Rembo,Makati,12000,2,1,42
+278,Apartment in Makati Pio del Pilar 2 Bedroom for Rent,Apartment,Pio Del Pilar,Makati,26000,2,1,42
+279,2 bedroom Apartment in Bangkal Makati for rent,Apartment,Bangkal,Makati,16000,2,1,45
+280,2 Bedroom 1 Toilet and Bath - Makati (maximum 6 persons) for rent,Room,Pio Del Pilar,Makati,18000,2,1,49
+281,"2 Bedroom Apartment For Rent at Bangkal, Makati City, Metro Manila",Apartment,Bangkal,Makati,20000,2,1,50
+282,"Room for Rent, Makati City",Room,Poblacion,Makati,17000,2,1,50
+283,"For Rent unit with parking near BGC, Ortigas Center and Makati City",Condo,Guadalupe Nuevo,Makati,25000,2,1,60
+284,"2 Storey Apartment for Rent in Palanan, Palanan, Makati, Metro Manila",Apartment,Palanan,Makati,30000,2,1,80
+285,2-Small Bedroom Studio Unit Apartment (Makati City),Apartment,San Isidro,Makati,15000,2,1,0
+286,"2-Bedroom Apartment for Lease in Palanan, Makati",Apartment,Palanan,Makati,30000,2,1,0
+287,Solo Room for Ladies and Males in Makati with Free Wifi,Room,East Rembo,Makati,5000,5,1,0
+288,Bedspace For Rent in Makati. Looking For Tenants!,Bedspace,San Isidro,Makati,4000,6,1,35
+289,Bedspace For Rent in Makati. Looking For Tenants!,Bedspace,San Isidro,Makati,4000,6,1,35
+290,Studio Type Dorm for 4 Occupants for Daily Rent at Makati,Apartment,Guadalupe Viejo,Makati,3500,1,2,19
+291,"Makati Bedspacer for Female or Lady (Condominium) at Pio Del Pilar, Makati City",Bedspace,Pio Del Pilar,Makati,5000,1,2,44
+292,Makati Ayala Bedspace For Rent,Bedspace,Pio Del Pilar,Makati,5000,1,2,45
+293,"Makati Dormitory : P3,250/month near BGC & Ayala Avenue",Dormitory,Comembo,Makati,3250,1,2,50
+294,"For rent Dormitory Makati: P2,950/month near McKinley, BGC & The Fort",Dormitory,Rizal,Makati,3000,1,2,50
+297,"Privacy Female Dormitory in Makati, Near BGC, Ayala",Dormitory,Comembo,Makati,3250,1,2,0
+298,"Privacy Male Dormitory in Makati, near Mckinley, BGC, Ayala",Dormitory,Rizal,Makati,2950,1,2,0
+299,"Free Dormitory in Makati, Near BGC, Ayala",Dormitory,Comembo,Makati,3250,1,2,0
+300,"Free Dormitory in Makati, Near Mckinley, BGC, Ayala",Dormitory,Rizal,Makati,2950,1,2,0
+301,"Privacy Female Dormitory in Makati, Near Mckinley, BGC, Ayala",Dormitory,Rizal,Makati,2950,1,2,0
+302,"Privacy Male Dormitory in Makati, Near BGC, Ayala",Dormitory,Comembo,Makati,3250,1,2,0
+303,Bedspace Capsule type for Rent,Bedspace,Pembo,Makati,3000,1,2,0
+304,"Brand New Flats/Dormitory For Lease in Evangelista, Makati",Flat,Bangkal,Makati,6500,2,2,40
+305,"Condo sharing for men at Cityland, Pio Del Pilar, Makati",Condo,Pio Del Pilar,Makati,3745,2,2,45
+306,"2 Bedroom, 2 CR apartment with 1 carpark  for rent",Apartment,East Rembo,Makati,20000,2,2,50
+307,Newly Constructed 2-Bedroom Apartment for Rent - Makati City,Apartment,San Isidro,Makati,25000,2,2,64
+308,"Apartment Share in Makati w/ Living room, Kitchen, Dining and Laundry Area",Apartment,Valenzuela,Makati,4800,2,2,75
+314,For Rent: Newly Renovated 2 Bedroom Apartment in Taguig St. Makati City,Apartment,Valenzuela,Makati,23100,2,2,90
+316,"For rent : 2BR, 2TB w 1CG, walking distance from Circuit Mall, Makati Condo",Condo,Carmona,Makati,22500,2,2,100
+317,Female Bedspace for Rent in Makati,Bedspace,Valenzuela,Makati,4000,2,2,125
+318,Room for Rent in San Antonio Village Makati City,Room,San Antonio,Makati,4500,2,2,0
+319,Bedspace in Makati for Females,Bedspace,Palanan,Makati,3000,3,2,71
+320,For Rent: Newly Renovated 3 Bedroom Apartment in Cardona St. Makati City,Apartment,Poblacion,Makati,30000,3,2,80
+322,Room for Rent Makati Guadalupe Bliss,Room,Cembo,Makati,6000,5,2,0
+325,Female Bedspace near Makati Medical Center and Ayala (Fiber Internet),Bedspace,Pio Del Pilar,Makati,2400,3,3,20
+326,Female Bedspace and Room for Rent in Makati,Bedspace,Pio Del Pilar,Makati,3500,3,3,50
+328,For rent Female Bedspace near Makati Medical Center and Ayala Business District,Bedspace,Pio Del Pilar,Makati,2400,3,3,0
+329,"Bedspace for Rent in Poblacion, Makati for male only",Bedspace,Poblacion,Makati,4000,3,3,0
+330,"Bedspace for Rent in Makati near Ayala, Buendia, Pasong Tamo, and Chino Roces",Bedspace,San Antonio,Makati,3000,4,3,130
+331,Makati Room for Rent for ladies only,Room,Tejeros,Makati,4800,1,4,7
+332,"Bedspace in Olympia, Makati  Brand new/Recently renovated Boarding House.",Bedspace,Olympia,Makati,3500,1,4,120
+333,"Dormitory Ideal For Professionals Working at The Fort Bgc, Mckinley Hill and Mak",Dormitory,Pembo,Makati,3100,4,4,50
+334,Lady Bedspace for Rent,Bedspace,Guadalupe Nuevo,Makati,2700,4,5,0
+335,For Rent: Bedspace for women,Bedspace,Guadalupe Nuevo,Makati,2700,4,5,0
+336,"Female Bedspace in Poblacion, Makati City.",Bedspace,Poblacion,Makati,4000,5,5,80
+340,Newly Constructed Eastrembo Makati Apartment & Rooms for rent,Apartment,East Rembo,Makati,9000,7,7,30
+341,Bedspace in a Secured Community in Makati City,Bedspace,Valenzuela,Makati,3900,10,7,200
+347,Ladies Dormitory for Lease in P. Jacito Makati,Dormitory,Pio Del Pilar,Makati,3000,24,24,899
+355,Dormitory for Ladies in Makati for Rent,Dormitory,San Antonio,Makati,6000,25,50,15
+358,Dormitory in Makati - Room and Bedspace for Rent,Bedspace,Guadalupe Nuevo,Makati,2700,1,0,600
+359,"Room for Rent in Guadalupe Bliss, Makati City",Room,Cembo,Makati,5500,1,0,0
+360,"1 bedroom apartment for rent in Makati Avenue, Makati",Apartment,Makati Avenue,Makati,20000,1,0,0
+361,Condo Sharing/Bedspace The Linear Makati for Male,Bedspace,San Antonio,Makati,6000,1,0,0
+363,One bedroom apartment with loft,Apartment,Bangkal,Makati,9000,1,0,0
+364,"Bedspace, Condo Sharing, Room For rent",Bedspace,Pembo,Makati,3800,1,0,0
+365,Bedspace Guadalupe Makati 2-min away MRT,Bedspace,Guadalupe Viejo,Makati,3500,2,0,0
+366,Male and Female Bedspace (Separate boarding house),Bedspace,Guadalupe Nuevo,Makati,2700,2,0,0
+367,dorm bedspace budget hotel quality makati,Bedspace,Palanan,Makati,3700,4,0,0
+368,Bedspace (Ladies Only) For Rent Makati City (Near BGC),Bedspace,Pitogo,Makati,3000,5,0,0
+369,"For Rent Bedspace for Ladies in Poblacion, Makati for as Low as 4,000 Per Month!",Bedspace,Poblacion,Makati,4000,8,0,0
+376,Architecturally designed 2 bedroom apartment in Malvar Batangas,Apartment,Luta Del Norte,Malvar,10000,2,1,60
+377,Fully Furnished Room (Detached) 2nd Floor with Private Bathroom near Boni Ave.,Room,Plainview,Mandaluyong,8900,1,1,10
+378,Lady Bedspacer in Highway Hills (Mandaluyong),Bedspace,Highway Hills,Mandaluyong,2300,1,1,10
+379,"Studio Type Apartment Plainview, Mandaluyong near Boni Avenue for rent",Apartment,Plainview,Mandaluyong,8700,1,1,14
+380,"Room for Rent near Shangrila, Megamall, ADB and Ortigas Area",Room,Highway Hills,Mandaluyong,9500,1,1,14
+381,Bed Space In Premium Condo,Condo,Boni Avenue,Mandaluyong,5600,1,1,16
+382,"Studio Apartment for Rent in Plainview, Mandaluyong",Apartment,Plainview,Mandaluyong,8500,1,1,16
+383,Semi-Furnished Studio for Rent Mandaluyong City Near MRT Shaw (O_BCV_MandLFT01),Apartment,Highway Hills,Mandaluyong,11500,1,1,18
+384,New (2020) Corner Studio For Rent in Mandaluyong Near Edsa Shaw,Apartment,Highway Hills,Mandaluyong,11500,1,1,18
+385,Studio Near Shaw and Ortigas Center for Rent (O_BCV_MandNlft) in Mandaluyong,Apartment,Highway Hills,Mandaluyong,11000,1,1,18
+386,"For Rent Studio unit in Highway Hills, Mandaluyong (Near Ortigas Area)",Apartment,Highway Hills,Mandaluyong,11000,1,1,18
+387,"For Rent Studio unit in Highway Hills, Mandaluyong (Near Ortigas Area)",Apartment,Highway Hills,Mandaluyong,11000,1,1,18
+388,"Studio Unit For Rent at  Brgy. Plainview, Mandaluyong City",Apartment,Plainview,Mandaluyong,7000,1,1,20
+389,Bedspace For Female in Mandaluyong City Near City Hall,Bedspace,Plainview,Mandaluyong,2300,1,1,20
+390,New Studio Apartment Unit @ P10500 monthly,Apartment,Plainview,Mandaluyong,10500,1,1,22
+391,For Rent: New Studio Unit with Parking at P12500,Apartment,Plainview,Mandaluyong,12500,1,1,22
+392,New Corner Studio Unit Apartment for Rent @ P10500 (with aircon),Apartment,Plainview,Mandaluyong,10500,1,1,22
+393,New Studio Unit Apartment for Rent at P10500,Apartment,Plainview,Mandaluyong,10500,1,1,22
+394,For Rent Semi-Furnished Studio in Highway Hills Mandaluyong (near Ortigas),Apartment,Highway Hills,Mandaluyong,11500,1,1,22
+395,Brand New Studio Unit Apartment for Rent at P10500 (All In except water & elec),Apartment,Plainview,Mandaluyong,10500,1,1,22
+396,New Studio Unit Apartment for Rent at P10500,Apartment,Plainview,Mandaluyong,10500,1,1,22
+397,For Rent Studio unit in Mandaluyong City (Near Ortigas Area),Apartment,Highway Hills,Mandaluyong,11000,1,1,22
+398,22 sqm BRAND NEW STUDIO UNIT FOR RENT,Apartment,Plainview,Mandaluyong,11000,1,1,22
+399,22 sqm BRAND NEW STUDIO UNIT FOR RENT,Apartment,Plainview,Mandaluyong,11000,1,1,22
+400,Brand New Studio Unit for Rent @ P10500 monthly,Apartment,Plainview,Mandaluyong,10500,1,1,22
+401,Room for rent in Mandaluyong 16k 1br 23sqm,Room,Shaw Boulevard,Mandaluyong,16000,1,1,23
+402,Posh non-crowded bedspace at a posh condo for ladies,Bedspace,Highway Hills,Mandaluyong,7500,1,1,23
+403,Brand New Apartments in the center of Mandaluyong For Rent,Apartment,Barangka Drive,Mandaluyong,10000,1,1,23
+404,Studio in the heart of Mandaluyong for rent,Apartment,Highway Hills,Mandaluyong,14000,1,1,24
+405,"Studio Apartment for Rent in Plainview, Mandaluyong",Apartment,Plainview,Mandaluyong,9000,1,1,24
+406,"Cityland Grand Central. EDSA, Shaw Blvd, Ortigas Center Condo for Rent",Condo,Shaw Boulevard,Mandaluyong,12600,1,1,25
+407,Brand New 25 sqm Studio Unit for Rent @ P11500,Apartment,Plainview,Mandaluyong,11500,1,1,25
+408,Bed Space for Rent at Avida Centera,Bedspace,Highway Hills,Mandaluyong,5900,1,1,25
+409,New Corner Apartment Studio for Rent at P13500 w/ Car Parking,Apartment,Plainview,Mandaluyong,13500,1,1,25
+410,New Studio Unit Apartment for Rent @ P10500,Apartment,Plainview,Mandaluyong,10500,1,1,25
+411,Newly Built Studio Unit for Rent at P10500,Apartment,Plainview,Mandaluyong,10500,1,1,25
+412,"New Unit - Female Condo Sharing at Zitan Condominium, Mandaluyong City",Condo,Highway Hills,Mandaluyong,5000,1,1,25
+413,New Corner Apartment Studio for Rent at P11500 monthly,Apartment,Plainview,Mandaluyong,11500,1,1,25
+414,Brand New Studio Unit for Rent at P10500,Apartment,Plainview,Mandaluyong,10500,1,1,25
+415,New Corner Studio Unit for Rent @ P11500 (Free Motorcycle Parking),Apartment,Plainview,Mandaluyong,11500,1,1,25
+416,Brand New Studio Unit Apartment for Rent @ P10500,Apartment,Plainview,Mandaluyong,10500,1,1,25
+417,New Corner Apartment Studio Unit For Rent @ P11500,Apartment,Plainview,Mandaluyong,11500,1,1,25
+418,Bedspace for Male Only,Bedspace,Highway Hills,Mandaluyong,3800,1,1,26
+419,Studio Type Apartment in Zitan Greenfield District,Apartment,Highway Hills,Mandaluyong,19000,1,1,26
+420,Bedspace for Males Available in Mandaluyong City,Bedspace,Boni Avenue,Mandaluyong,3700,1,1,30
+421,Apartment for Rent in Mandaluyong,Apartment,Highway Hills,Mandaluyong,12500,1,1,30
+422,Staff House For Rent In Mandaluyong,House,Malamig,Mandaluyong,25000,1,1,30
+423,1BR Loft Type Condo Unit For Rent,Condo,Barangka Ilaya,Mandaluyong,18000,1,1,34
+424,Studio Apartment at Policarpio for Rent,Apartment,New Zañiga,Mandaluyong,14000,1,1,35
+425,"Bedspace for rent Plainview, Mandaluyong, Metro Manila",Bedspace,Plainview,Mandaluyong,3500,1,1,35
+426,"1 Bedroom Apartment near Megamall, Greenfield, and Boni",Apartment,Mauway,Mandaluyong,12000,1,1,35
+427,Bed Space for Rent at Condominium Unit near at Pioneer Robinson Forum,Condo,Highway Hills,Mandaluyong,5300,1,1,36
+428,Condo Male Bed Space & Room Sharing,Room,Plainview,Mandaluyong,3500,1,1,36
+429,Hulo Bliss 38 sqm Apartment ( 10k) near Makati,Apartment,Hulo,Mandaluyong,10000,1,1,38
+430,Cityland Pioneer Condo Sharing/ Bedspace for Females,Bedspace,Highway Hills,Mandaluyong,4000,1,1,39
+431,(Female) Bed space available. (Condo sharing) 6k All-in,Condo,Highway Hills,Mandaluyong,6000,1,1,39
+432,Bed Space for Rent at Gateway Garden Heights beside Pioneer Robinson Forum Mall,Bedspace,Barangka Ilaya,Mandaluyong,5300,1,1,40
+433,Apartment for rent,Apartment,Old Zañiga,Mandaluyong,10000,1,1,40
+434,Condosharing bedspace ortigas mandaluyong boni shaw pioner,Bedspace,Wack-Wack Greenhills,Mandaluyong,4500,1,1,42
+435,1 Bedroom Apartment For Rent in Mandaluyong,Apartment,Old Zañiga,Mandaluyong,13000,1,1,43
+436,Studio Condo unit for Rent (Dorm Type Interior) at Lee Gardens,Apartment,Shaw Boulevard,Mandaluyong,25000,1,1,45
+437,6Beds Ground floor Staff House Bedspace for Rent Lease Mandaluyong Room Co-worki,Bedspace,Old Zañiga,Mandaluyong,27000,1,1,45
+438,"Bedspace For Male in Malamig, Mandaluyong City",Bedspace,Malamig,Mandaluyong,2500,1,1,0
+439,1br - apartment for ladies only,Apartment,Highway Hills,Mandaluyong,10000,1,1,0
+440,"Bedspace for Rent in Hulo, Mandaluyong",Bedspace,Hulo,Mandaluyong,2500,1,1,0
+441,Male Bedspace at California Garden Square for Rent,Bedspace,Highway Hills,Mandaluyong,4250,1,1,0
+442,Capsule type room for rent near Ortigas EDSA Shaw in Mandaluyong,Room,Highway Hills,Mandaluyong,3500,1,1,0
+443,Bedspace for Male for Rent in Mandaluyong,Bedspace,Plainview,Mandaluyong,3700,1,1,0
+444,1 Bedroom Apartment Plainview Mandaluyong,Apartment,Plainview,Mandaluyong,11000,1,1,0
+445,Male Bedspace With Non Aircon Available Across Starmall Edsa Shaw,Bedspace,Highway Hills,Mandaluyong,3600,1,1,0
+446,"Male Bedspace for Rent, Mandaluyong",Bedspace,Plainview,Mandaluyong,3500,1,1,0
+447,Bedspace For Working Male (long term) at RAA bldg,Bedspace,Plainview,Mandaluyong,3700,1,1,0
+448,"Affordable and Budget Apartelle – Room Rentals, Accommodations",Room,Plainview,Mandaluyong,3980,1,1,0
+449,"Bedspace for Rent in Mabini-J. Rizal, Mandaluyong, Metro Manila",Bedspace,Mabini-J. Rizal,Mandaluyong,1500,1,1,0
+450,(Ladies Only) Brand New Semi-Furnished Room For Rent near Shaw blvd,Room,Hagdang Bato Libis,Mandaluyong,18000,1,1,0
+451,Bedspace in fully furnished rooms (4-6 persons) available in Mandaluyong,Bedspace,Highway Hills,Mandaluyong,4000,1,1,0
+452,Bed Space Condo For Male - Urban Deca Tower Shaw,Condo,Highway Hills,Mandaluyong,5500,1,1,0
+453,"Lady Bedspace for Rent, Hulo, Mandaluyong",Bedspace,Hulo,Mandaluyong,2500,1,1,0
+454,Staycation at your cozy room away from home,Room,Highway Hills,Mandaluyong,1500,1,1,0
+455,"Male Bedspace at Bonifacio Residences for Rent, Mandaluyong",Bedspace,Plainview,Mandaluyong,3500,1,1,0
+456,"2BR Apartment for Rent in Plainview, Mandaluyong",Apartment,Plainview,Mandaluyong,20000,2,1,1
+457,Condo room sharing for rent at Suntrust Treetop Villas,Room,Hulo,Mandaluyong,10000,2,1,32
+458,Mandaluyong Condo Share ( Dorm Type),Condo,Barangka Ilaya,Mandaluyong,3500,2,1,35
+459,Bedspace for rent in Sheridan South Tower,Bedspace,Buayang Bato,Mandaluyong,5300,2,1,40
+460,2BR Condo Share Bedspace for Females in SM Light Residences,Bedspace,Barangka Ilaya,Mandaluyong,6500,2,1,43
+461,"2 Bedroom for rent at Plainview, Mandaluyong",Room,Plainview,Mandaluyong,23000,2,1,50
+462,2 bedroom apartment with 1 bathroom,Apartment,Namayan,Mandaluyong,18000,2,1,55
+463,Bedspace for Ladies in Mandaluyong City,Bedspace,Mauway,Mandaluyong,3000,2,1,70
+464,Bedspace in Mandaluyong,Bedspace,Buayang Bato,Mandaluyong,5600,2,1,86
+466,Bedspace in Magtoto Mandaluyong,Bedspace,Old Zañiga,Mandaluyong,3000,1,2,0
+467,Female Bed Space for Rent in Condominium Beside Robinson Forum Mall,Condo,Highway Hills,Mandaluyong,4250,2,2,40
+468,Male Bedspace at GA Tower 2 for rent,Bedspace,Barangka Ilaya,Mandaluyong,2500,2,2,44
+469,Near Boni Station (Megamall) Bedspace for rent,Bedspace,Barangka Ilaya,Mandaluyong,4500,2,2,47
+470,2 Bedroom with 1 car parking in Mandaluyong,Room,New Zañiga,Mandaluyong,25000,2,2,49
+471,"Bed space, condo sharing",Condo,Highway Hills,Mandaluyong,3800,2,2,54
+472,"Condo Sharing / Bedspace at Highway hills, Mandaluyong",Bedspace,Highway Hills,Mandaluyong,4250,2,2,56
+473,Condo Sharing for Females only,Condo,Highway Hills,Mandaluyong,4500,2,2,57
+474,Bed Space for Male Only,Bedspace,Wack-Wack Greenhills,Mandaluyong,6000,2,2,65
+475,condo sharing bed space ortigas mandaluyong  boni shaw pioneer,Condo,Wack-Wack Greenhills,Mandaluyong,5500,2,2,80
+476,Condo Unit in Mandaluyong 2 Bedrooms (Optional: Rent whole unit or one bedroom),Room,Barangka Ilaya,Mandaluyong,15000,2,2,88
+477,Bedspace for rent at California Garden Square,Bedspace,Highway Hills,Mandaluyong,3000,2,2,0
+478,Bedspace for rent at California Garden Square,Bedspace,Highway Hills,Mandaluyong,3000,2,2,0
+479,"Condo for share, Bedspace",Bedspace,Highway Hills,Mandaluyong,7000,3,2,0
+481,Male Bedspacer - Anneth,Bedspace,Plainview,Mandaluyong,3500,8,3,35
+483,"Female Bedspace for rent in Plainview, Mandaluyong, Metro Manila",Bedspace,Plainview,Mandaluyong,3500,5,5,250
+484,"bedspace for ladies in #9 ong ai gui (formerly queen""s road street)",Bedspace,Highway Hills,Mandaluyong,3500,9,8,150
+485,Bedspacer for Rent,Bedspace,Highway Hills,Mandaluyong,3200,10,8,400
+486,Bedspacer for ladies near MRT Shaw,Bedspace,Highway Hills,Mandaluyong,3200,10,8,400
+489,Room For Rent Studio Type In Mandaluyong,Room,Boni Avenue,Mandaluyong,6000,1,0,0
+490,"Boni, Mandaluyong - Rosario's Female Dormitory (San Pedro)",Dormitory,Plainview,Mandaluyong,4000,1,0,0
+491,For Rent 2 Bedroom Unit Santiago Residences Mandaluyong,Room,Mabini-J. Rizal,Mandaluyong,11500,2,0,0
+492,"Room for rent in Santa Ana (Sta. Ana) Manila, 1 ride to Makati, Taft, Kalentong",Room,Santa Ana,Manila,2900,1,1,8
+493,2 Beds Capacity Room,Room,Santa Mesa,Manila,4500,1,1,9
+494,1 Bed w/ Table Capacity Room for rent,Room,Santa Mesa,Manila,9000,1,1,9
+495,Apartment/Room for rent (w/ own restroom & air condition),Apartment,Quiapo,Manila,7500,1,1,12
+496,Aurora Place Dormitory For Rent in Agoncillo St. Malate Manila,Dormitory,Malate,Manila,7000,1,1,12
+497,"Room for Rent in Malate, Manila  near Taft (DLSU, St. Scho, PWU, PCU, Adamson)",Room,Malate,Manila,5500,1,1,12
+498,Studio type near UST,Apartment,Sampaloc,Manila,8000,1,1,14
+499,Boarding House - Female Bedspacers at the heart of Manila,Bedspace,Sampaloc,Manila,4950,1,1,14
+500,Residential or Office space along Legarda Street and National Teachers College,Residential,Quiapo,Manila,10000,1,1,14
+501,Studio Unit in San Andres Bukid,Apartment,San Andres,Manila,7800,1,1,15
+502,Studio Type Apartment for Rent (Sampaloc. Near Espana Manila. UST),Apartment,Ermita,Manila,9000,1,1,15
+503,Bedspace For Rent Along Sampaloc Manila!!! (18 Sqm Good For 4 Pax),Bedspace,Sampaloc,Manila,3700,1,1,18
+504,"Studio Type Bedroom For Rent (San Andres Bukid, Corner Makati)",Room,San Andres,Manila,9000,1,1,18
+505,"Male Bedspace at Amaia Skies Avenida, Sta. Cruz, Manila",Bedspace,Santa Cruz,Manila,2500,1,1,18
+506,"1 Bedroom Apartment unit for rent at San Andres Street ,Malate, Manila City",Apartment,Malate,Manila,8500,1,1,18
+507,Fully Furnished Room for Rent,Room,Sampaloc,Manila,15000,1,1,18
+508,"Semi-Furnish 1 bedroom Apartment for Rent  in Sta. Ana, Manila",Apartment,Santa Ana,Manila,12500,1,1,18
+509,BedSpace in front of UST and near in University Belt (Female),Bedspace,Sampaloc,Manila,4950,1,1,19
+510,"Room for Rent in Malate near DLSU, Benilde, St. Scho, Rob",Room,Malate,Manila,10000,1,1,20
+511,España De Residencia Bedspace for Rent,Bedspace,Sampaloc,Manila,3000,1,1,20
+512,Apartment for Rent in Sampaloc Manila Lacson Espana Dapitan UST Maceda Eddie Co,Apartment,Sampaloc,Manila,8000,1,1,20
+513,Apartment for Rent in Sampaloc Manila Lacson Espana Dapitan UST Maceda Eddie Co,Apartment,Sampaloc,Manila,8000,1,1,20
+514,Palmera Residences Studio Unit For Rent in Sampaloc Manila,Apartment,Sampaloc,Manila,7630,1,1,20
+515,"20 sqm Room in Paco for Rent, Manila",Room,Paco,Manila,8250,1,1,20
+516,M-Residences Dormitory For Rent,Dormitory,Sampaloc,Manila,4950,1,1,20
+517,"Apartment For Rent in amon Magsaysay Boulevard, Sta. Mesa, Manila",Apartment,Santa Mesa,Manila,8500,1,1,20
+518,Studio Type/ Dormitory For Rent at 505 Residences,Apartment,San Miguel,Manila,17000,1,1,20
+519,M-Residences Dormitory For Rent,Dormitory,Sampaloc,Manila,4950,1,1,20
+520,Brand New Condo at the Silk Residences Manila for sharing,Condo,Santa Mesa,Manila,24000,1,1,21
+521,"Affordable Studio Type Apartment in San Andres, Manila, Metro Manila",Apartment,San Andres,Manila,11000,1,1,21
+522,Apartment for Rent in Manila Sampaloc Dapitan Lacson Espana UST FEU Eddie Co,Apartment,Sampaloc,Manila,8000,1,1,22
+523,Amaia Sta. Mesa Bedspace for Rent,Bedspace,Santa Mesa,Manila,4500,1,1,22
+524,"Studio Type Room For Rent (Near Espana, UST, Recto, Ubelt and Makati)",Room,Sampaloc,Manila,10000,1,1,22
+525,Bedspace For Rent Manila,Bedspace,Tondo,Manila,3650,1,1,23
+526,Condo Sharing Manila for rent,Condo,Santa Ana,Manila,3450,1,1,23
+527,Great Clean and Safe Studio near DLSU,Apartment,Malate,Manila,13000,1,1,24
+528,"1 Bedroom Apartment for rent in Ermita, Metro Manila",Apartment,Ermita,Manila,25000,1,1,24
+529,"Studio Apartment for Rent in Dapitan, Sampaloc, Manila City",Apartment,Sampaloc,Manila,8000,1,1,25
+530,Apartment for Rent Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,8000,1,1,25
+531,Studio type unit for rent in Vito Cruz Manila,Apartment,Santa Cruz,Manila,12000,1,1,25
+532,Condo Bedspace for Rent at Grand Residences España 2,Bedspace,Sampaloc,Manila,5000,1,1,25
+533,"Malate Apartment for Rent Studio Type in Manila 10,500 pesos only",Apartment,Malate,Manila,10500,1,1,25
+534,Condo Bedspace for Rent in Manila near UST Now 5k!! - Open for Agents,Bedspace,Sampaloc,Manila,5000,1,1,25
+535,Apartment for Rent Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,8000,1,1,25
+536,Apartment for Rent Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,8000,1,1,25
+537,Apartment for Rent Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,8000,1,1,25
+538,1 BR. Apartment for Rent near St. Scholastica and DLSU,Apartment,Malate,Manila,12400,1,1,30
+539,Apartment for Rent in Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,8500,1,1,30
+541,Studio Type Apartment for rent,Apartment,Santa Ana,Manila,13000,1,1,30
+542,Bedspace for Female in Manila Rivercity Residences,Bedspace,Santa Ana,Manila,2200,1,1,30
+543,Apartment for Rent Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,8000,1,1,30
+544,1 BEDROOM FOR RENT,Room,Santa Ana,Manila,10500,1,1,30
+545,1 BR. Apartment for Rent near St. Scho and DLSU,Apartment,Malate,Manila,10500,1,1,30
+546,Apartment for Rent Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,8000,1,1,30
+547,"Male Bedspace with free wifi for rent in Quiapo, Manila, Metro Manila",Bedspace,Quiapo,Manila,3500,1,1,33
+548,1 bedroom Apartment for Rent Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,11000,1,1,35
+549,"1 Bedroom Apartment Unit for Rent in Sampaloc, Manila, Metro Manila",Apartment,Sampaloc,Manila,9000,1,1,35
+550,1 bedroom Apartment for Rent Sampaloc Manila Lacson Espana Dapitan UST Maceda,Apartment,Sampaloc,Manila,11000,1,1,35
+551,STORAGE/ Office Space / CLINIC Space for rent ,Office Space,Malate,Manila,27000,1,1,45
+552,"1-BR Apartment Unit (45 sqm) 1 T&B with Pantry near Nagtahan, Manila @ P10K mo.",Apartment,Sampaloc,Manila,10000,1,1,45
+553,Dapitan Lacson Sampaloc Manila Apartment for Rent near UST,Apartment,Sampaloc,Manila,10000,1,1,50
+554,Bedspace near UP Manila and PGH,Bedspace,Paco,Manila,5000,1,1,50
+555,1-Bedroom 60 sqm Apartment in Retiro Sampaloc Manila,Apartment,Sampaloc,Manila,14000,1,1,60
+556,"One Bedroom Apartment for Rent in Malate, Manila, Metro Manila",Apartment,Malate,Manila,28760,1,1,78
+557,1 Bedroom Apartment for Rent in Sampaloc Manila,Apartment,Sampaloc,Manila,15000,1,1,700
+558,"Studio type apartment for rent Sta. Mesa, Manila",Apartment,Santa Mesa,Manila,9000,1,1,0
+559,Bedspace near UBelt and Pureza LRT 2 Station for Rent,Bedspace,Santa Mesa,Manila,3000,1,1,0
+560,Female Bedspace in Victoria De Manila near PCU,Bedspace,Malate,Manila,4800,1,1,0
+561,"Room for Rent at Padre Campa Street, Sampaloc East, Manila, Metro Manila",Room,Sampaloc,Manila,6500,1,1,0
+562,"Studio Type Room for Rent in Sampaloc, Manila",Room,Sampaloc,Manila,22000,1,1,0
+563,Condo Sharing - LF 1 female student housemate at Victoria de Manila,Condo,Malate,Manila,4800,1,1,0
+564,New Condo Unit in Manila for Male Bedspace,Bedspace,Tondo,Manila,4000,1,1,0
+565,Affordable Staff Accommodation Apartment for Rent in Santa Mesa Manila,Apartment,Santa Mesa,Manila,25000,1,1,0
+566,Victoria De Manila - Room for Rent in Malate,Room,Malate,Manila,12000,1,1,0
+567,Female Bedspace for Rent 4800 only near robinson malate,Bedspace,Malate,Manila,4800,1,1,0
+568,room apartment for rent hermosa tondo manila walking distance to lrt abad santos,Apartment,Tondo,Manila,6000,1,1,0
+569,Ladies Bedspace for Rent near Mendiola,Bedspace,Tondo,Manila,3650,1,1,0
+570,"Studio type very near Bambang LRT station, near UST",Apartment,Santa Cruz,Manila,8500,1,1,0
+571,"Lady Bedspace for Rent at Malate, Manila",Bedspace,Malate,Manila,4800,1,1,0
+572,"Female Bedspace for Rent, Manila",Bedspace,Santa Mesa,Manila,3750,1,1,0
+573,"Room For Rent in Sampaloc Manila P3,000",Room,Sampaloc,Manila,3000,1,1,0
+574,"Fully Furnished Room for Rent with Free WiFi in Sampaloc, Manila",Room,Sampaloc,Manila,15000,1,1,0
+575,Female Bedspace for Rent in Malate near Robinson Malate and PGH,Bedspace,Malate,Manila,4800,1,1,0
+576,Bedspace for Rent only 4800 per month in victoria de manila,Bedspace,Malate,Manila,4800,1,1,0
+577,"Bedspace in Casa Regina Ladies Dormitory for Rent, Manila",Bedspace,Sampaloc,Manila,4950,1,1,0
+578,Lady Bedspace for Rent in Manila,Bedspace,Santa Cruz,Manila,3150,1,1,0
+579,Female bedspacer in Manila,Bedspace,Malate,Manila,4800,2,1,8
+580,2BR Condo rent in Manila Rivercity,Condo,Santa Ana,Manila,15000,2,1,30
+581,"Properties for Rent at Lardizabal St., Brgy. Sampaloc, Manila",Properties,Sampaloc,Manila,10000,2,1,30
+582,2br 1br studio for rent sta ana manila with parking,Apartment,Santa Ana,Manila,14500,2,1,40
+583,"Apartment for Rent 630 H. Ventura St., Brgy. 547, Sampaloc, Manila",Apartment,Sampaloc,Manila,7500,2,1,40
+584,"For Rent , Price Per Head Bedroom",Room,Malate,Manila,6500,2,1,40
+585,Apartment Boarding House Mendiola Nagtahan Pureza Santa Mesa,Apartment,Santa Mesa,Manila,9900,2,1,40
+586,"LADIES Bed space Torre Lorenzo for Rent, Room for Rent Manila, Rentals Manila",Room,Malate,Manila,5000,2,1,40
+587,"LADIES Bed space Torre Lorenzo for Rent, Room for Rent Manila, Rentals Manila",Room,Malate,Manila,5000,2,1,40
+588,"Apartment Unit for Lease In 1179 Padre Algue Street Tondo, Manila, Metro Manila",Apartment,Tondo,Manila,17000,2,1,41
+589,2 bedroom Unit for Rent near St Scho and DLSU Taft Vito Cruz,Room,Malate,Manila,13500,2,1,45
+590,"apartment for lease in padre algue street, tondo manila",Apartment,Tondo,Manila,16000,2,1,45
+591,Secured 2-Bedroom Apartment in Peaceful Area of Gagalangin Tondo For Rent,Apartment,Tondo,Manila,10500,2,1,48
+592,2 Bedroom Apartment For Rent in Sampaloc,Apartment,Sampaloc,Manila,16000,2,1,50
+593,2 br apartment near ust manila for rent,Apartment,Sampaloc,Manila,18000,2,1,55
+594,Tejeron santa ana 2 bedroom apartment for rent,Apartment,Santa Ana,Manila,16000,2,1,60
+595,Residential in Binondo for Rent,Residential,Binondo,Manila,25000,2,1,80
+596,For Rent Santa Ana Manila Tejeron 2 Bedroom 80sqm no parking,Room,Santa Ana,Manila,16000,2,1,80
+597,Apartment For Rent (avail anytime) in 2866 E Aurora Blvd Sta Cruz Manila,Apartment,Santa Cruz,Manila,8000,2,1,95
+598,apartment for rent (available on 15-oct-20),Apartment,Santa Cruz,Manila,7500,2,1,95
+599,Sampaloc Room for rent near U-belt area,Room,Sampaloc,Manila,5000,2,1,0
+600,2 BR apartment near UST,Apartment,Sampaloc,Manila,16000,2,1,0
+601,2-Bedroom Apartment for rent,Apartment,Sampaloc,Manila,18000,2,1,0
+602,Bedspace in sta mesa near sm,Bedspace,Santa Mesa,Manila,3000,2,1,0
+603,Bedspace in sta mesa near sm,Bedspace,Santa Mesa,Manila,3000,2,1,0
+604,"3 Bedroom Apartment in Sta. Mesa, Manila",Apartment,Santa Mesa,Manila,29800,3,1,84
+605,Forbes Hall - Professional Dormitory for Employees,Dormitory,Sampaloc,Manila,4000,4,1,15
+606,"Ladies Dormitory/Apartment @ University Belt, San Miguel Manila",Apartment,San Miguel,Manila,3000,1,2,15
+607,"Room For Rent Along Sampaloc, Manila !!! Junior Suite - 25 Sqm (Good For 4 Pax)",Room,Sampaloc,Manila,17800,1,2,25
+608,"Room for Rent w/ 2 Rest Room near at SM Hypermarket, School, Hospital",Room,Santa Mesa,Manila,3500,2,2,20
+609,"Bedspace for rent with Aircon in Paco, Manila, Metro Manila",Bedspace,Paco,Manila,3500,2,2,40
+610,Budget all-Inclusive Ladies Bedspace In U-belt Manila near UST Espana,Bedspace,Sampaloc,Manila,7000,2,2,50
+611,Budget all-Inclusive Ladies Bedspace In U-belt Manila near UST Espana,Bedspace,Sampaloc,Manila,7000,2,2,50
+612,"2 bedroom apartment unit for rent in Ermita, Manila, Metro Manila",Apartment,Ermita,Manila,20000,2,2,60
+613,Bedspace available for Working Ladies in Malate Quirino Train Station,Bedspace,Malate,Manila,3200,2,2,70
+614,Bedspace for Girls Available,Bedspace,Santa Mesa,Manila,5000,2,2,90
+615,"Bedspacer Condo , Small Condo Room , Transient",Bedspace,Malate,Manila,4800,2,2,0
+616,2 rooms for rent at 2100 Simoun Crisostomo Sampaloc Manila,Room,Sampaloc,Manila,4000,2,2,0
+617,Bedspace in Manila (female only),Bedspace,San Andres,Manila,2000,2,2,0
+618,Cozy Bedspace at Isabelle de Hidalgo Condo Quiapo Manila,Bedspace,Quiapo,Manila,4000,3,2,60
+619,Bedspace for Rent Daily/Monthly in Victoria de Manila 1,Bedspace,Malate,Manila,4800,3,2,68
+620,6 Bedspace room in 1239 Unistar Bldg. T. San Luis St. Brgy. 847  Pandacan Manila,Bedspace,Pandacan,Manila,3500,2,3,45
+621,"Apartment for rent in Malate, Manila, Metro Manila",Apartment,Malate,Manila,9000,3,3,40
+622,Male Bedspace Manila near LRT Vito Cruz,Bedspace,Malate,Manila,3000,3,3,120
+624,"Fully Air conditioned Bedspacer for rent, Quiapo, Manila, Metro Manila",Bedspace,Quiapo,Manila,10000,4,4,74
+625,Ladies Dormitory in manila for rent,Dormitory,Sampaloc,Manila,2500,9,5,100
+626,"Affordable Condo Bedspace in Pedro Gil Manila 3,600 w/ No deosit with Pool and Gym",Bedspace,Paco,Manila,3500,6,6,34
+628,"Lady Bedspace for rent near PUP and EARIST, Santa Mesa, Manila City",Bedspace,Santa Mesa,Manila,2000,9,7,0
+629,Affordable BedSpace near Pureza LRT,Bedspace,Santa Mesa,Manila,3750,12,8,300
+630,"40+ Bedrooms | Bedspace For Rent in Malate, Manila",Bedspace,Malate,Manila,2600,40,20,0
+631,19 regular rooms and 1 big room,Room,Sampaloc,Manila,12000,20,22,0
+634,For Rent Female Bedspace in Victoria de Manila Fully Furnished 4800 -AC,Bedspace,Malate,Manila,4800,1,0,44
+635,Bedspace Manila near Taft Avenue,Bedspace,Malate,Manila,2400,1,0,0
+636,"For Rent: Bedspace (4 Persons Per Room) in Victoria De Manila, Malate, Manila",Bedspace,Malate,Manila,6000,1,0,0
+637,Room for Rent,Room,Tondo,Manila,7000,1,0,0
+638,Female Bedspace For Rent near Robinsons Malate,Bedspace,Malate,Manila,4800,1,0,0
+639,"For Rent Bedspace in St.Clare Homes Building, Sampaloc Manila",Building,Sampaloc,Manila,5000,1,0,0
+640,Lady Bedspacing Unit La salle Taft For Rent,Condo,Malate,Manila,4000,1,0,0
+641,Bed Space (Lady) Room for Rent Espana Sampaloc Manila,Room,Sampaloc,Manila,3000,1,0,0
+642,"Bedspace/Roomsharing in Blumentritt, Santa Cruz, Manila",Bedspace,Santa Cruz,Manila,3500,1,0,0
+643,Female Bedspace in Malate Manila for rent,Bedspace,Malate,Manila,2000,1,0,0
+644,Urban Deca Homes Manila 2-Bedroom Condo Sharing,Room,Tondo,Manila,12000,2,0,30
+645,"For rent: 3 rooms at E. Quintos St., near Dapitan, Manila",Room,Sampaloc,Manila,8500,3,0,0
+646,6 Room Apartment Unit for rent in Santa Cruz Manila,Apartment,Santa Cruz,Manila,25000,6,0,200
+647,"Condo For Rent at Manila, Metro Manila",Condo,Malate,Manila,2500,10,0,0
+648,"Dormitory / Bedspacer across National University, Sampaloc, Manila near University Be...",Bedspace,Sampaloc,Manila,3000,21,0,0
+649,Safe and Well-maintained Bedspace for male and female,Bedspace,Paco,Manila,3500,28,0,0
+650,Affordable Staff Housing Units for Rent in Sampaloc Manila,Condo,Sampaloc,Manila,4999,100,0,0
+651,"Studio Type Fully Furnished - PHP 7,500 near Ateneo and Riverbanks",Apartment,Barangka,Marikina,7500,1,1,15
+652,Marikina Studios For Rent,Apartment,Barangka,Marikina,8500,1,1,15
+653,For Rent: Room Studio Type with Aircon,Room,Malanday,Marikina,6000,1,1,25
+654,2 Floor Apartment with 1 Bedroom,Apartment,Santo Niño,Marikina,12500,1,1,25
+655,"2 Bedroom Unit for Rent in Rickatelo Homes, Marikina City",Room,Barangka,Marikina,14000,2,1,50
+656,"2 Bedroom Apartment, Marikina City",Apartment,Concepcion Dos,Marikina,12000,2,1,75
+657,Lady Bedspacer and Boarding House,Bedspace,San Roque,Marikina,2000,1,2,40
+658,Apartment Studios for Rent in Alabang Adjacent to Northgate Cyberzone,Apartment,Cupang,Muntinlupa,8500,1,1,17
+659,"Female Condo Bed Space in Sucat, Muntinlupa",Condo,Sucat,Muntinlupa,3300,1,1,20
+660,"For Rent 1BR Apartment near Muntinlupa SM, Lyceum, Hall of Justice, Pepsi, LTO",Apartment,Tunasan,Muntinlupa,6500,1,1,23
+661,"Anuva Residences - Brand New 4 bed-Sharing Unit in Alabang, Muntinlupa",Condo,Cupang,Muntinlupa,18000,1,1,24
+662,Male Bedspace at Campville near Alabang with Free water and wifi,Bedspace,Cupang,Muntinlupa,3500,1,1,25
+663,Studio Condo Apartment for Rent in Alabang near Northgate Filinvest,Apartment,Cupang,Muntinlupa,8500,1,1,25
+664,Studio Condo Apartment for Rent in Alabang near Northgate Filinvest,Apartment,Cupang,Muntinlupa,8500,1,1,25
+665,Cozy Bedspace for male working professionals in Alabang,Bedspace,Sucat,Muntinlupa,3300,1,1,26
+666,1 bedroom villa/apartment for Rent,Apartment,Putatan,Muntinlupa,15000,1,1,26
+667,1 bedroom villa/apartment for Rent,Apartment,Putatan,Muntinlupa,15000,1,1,26
+668,Units of 1 Bedroom Apartments Available For Rent,Apartment,Alabang,Muntinlupa,15000,1,1,34
+669,"Apartment For Rent 1 BR ""45 sqm."" L&B Compound Alabang Muntinlupa City",Apartment,Alabang,Muntinlupa,10000,1,1,45
+670,"Free Dormitory in Alabang, near Northgate & ATC",Dormitory,Ayala Alabang,Muntinlupa,5300,1,1,0
+671,"Condo Sharing at Studio City Tower 2, Muntinlupa",Apartment,Alabang,Muntinlupa,2100,1,1,0
+672,Fully Furnished Apartment in Alabang with Free WIFI for Rent,Apartment,Alabang,Muntinlupa,8000,1,1,0
+673,Condo Bedspace,Bedspace,Sucat,Muntinlupa,3000,1,1,0
+674,Bedspace for rent at Alabang,Bedspace,Alabang,Muntinlupa,1700,1,1,0
+675,Condo Style Aparment for rent,Condo,Tunasan,Muntinlupa,8500,2,1,35
+676,Bare Apartment for rent,Apartment,Tunasan,Muntinlupa,8500,2,1,40
+677,"2 Bedroom apartment for rent in Pamana Residences, Cupang, Muntinlupa",Apartment,Cupang,Muntinlupa,28000,2,1,80
+678,Unfurnished Condo 1- Bedroom Apartment for Rent in Alabang,Apartment,Alabang,Muntinlupa,25000,1,2,75
+679,Female Bedspace for Rent in Alabang,Bedspace,Alabang,Muntinlupa,2500,4,2,0
+680,Rent Dorm Dormitory Boarding House Bedspace near SM Muntinlupa Lyceum of Alabang,Bedspace,Tunasan,Muntinlupa,1700,2,3,0
+681,Lady Bedspace for Rent near Sucat Interchange & Northgate Alabang,Bedspace,Sucat,Muntinlupa,3300,5,3,50
+683,"For Rent Bedspace Boarding House at Putatan, Muntinlupa",Bedspace,Putatan,Muntinlupa,1300,10,4,500
+684,"For Rent Bedspace Boarding House at Putatan, Muntinlupa",Bedspace,Putatan,Muntinlupa,1300,10,4,500
+685,"22 Bedroom Apartment for rent in Tunasan, Metro Manila",Apartment,Tunasan,Muntinlupa,1700,22,8,240
+686,"Male Bedspace for rent in Alabang, Muntinlupa",Bedspace,Alabang,Muntinlupa,2100,1,0,0
+687,Apartment 10 with 2 Bedrooms,Apartment,Bayanan,Muntinlupa,7500,2,0,0
+688,"2 bedroom Apartment unit for rent in North Bay Blvd. South,Navotas, Metro Manila",Apartment,North Bay Blvd.  South,Navotas,6000,2,1,40
+689,Rustic Designed Fully Furnished Studio Type Loft Room - 5 min away from LRT EDSA,Room,Ventanilla,Pasay,9000,1,1,12
+690,For Rent: One Bed Room apartment near the airport,Apartment,Don Carlos Village,Pasay,13000,1,1,12
+691,"Studio Room for Rent near the Airport, Don Carlos Village, Pasay City",Room,Don Carlos Village,Pasay,9000,1,1,15
+692,Loftify Apartment for Rent in Pasay City,Apartment,Bay City,Pasay,9999,1,1,18
+693,Apartment for Rent CondoStyle in Pasay City near MRT LRT,Apartment,Ventanilla,Pasay,6500,1,1,20
+694,"Studio Type Apartment in San Rafael, Pasay",Apartment,San Rafael,Pasay,6100,1,1,20
+695,"Studio Type Apartment in San Rafael, Pasay",Apartment,San Rafael,Pasay,6100,1,1,20
+696,"Studio Condo Room for Rent near Makati, Pasay",Room,San Rafael,Pasay,20000,1,1,22
+697,"Bare Studio-Type Room For Rent (1-2 pax) - BG Residences 2 - 10,500PHP, Pasay",Room,Villamor Air Base,Pasay,10500,1,1,22
+698,For Rent: Newly Renovated 1 Bedroom Unit in Zamora Pasay,Room,Malibay,Pasay,10000,1,1,23
+699,For Rent 1BR Apartment Along Taft Ave. across Cartimar Pasay City,Apartment,Tramo,Pasay,12000,1,1,23
+700,Newly Renovated 1 Bedroom Unit in Pasay,Room,Libertad,Pasay,10000,1,1,23
+701,Bedspace for Female in Pasay,Bedspace,Pasay Rotonda,Pasay,3600,1,1,24
+702,"3-Bed Dormitory Room for Rent, Pasay City",Room,M. Dela Cruz,Pasay,3699,1,1,24
+703,Bedspace for female,Bedspace,Pasay Rotonda,Pasay,3150,1,1,25
+704,Room for rent 10k in Pasay City near NAIA,Room,Villamor Air Base,Pasay,10000,1,1,28
+705,For Rent Studio Apartment unit at Pasay City [No Parking Space],Apartment,Tramo,Pasay,9000,1,1,28
+706,"For rent Bedspace for Male w/ Free WiFi and Netflix in Malibay, Pasay",Bedspace,Malibay,Pasay,3500,1,1,40
+707,Very Large Convenient 45sqm Studio in Pasay City for rent,Apartment,Malibay,Pasay,14000,1,1,45
+708,Room for rent along Taft Ave.Pasay City,Room,San Rafael,Pasay,5200,1,1,0
+709,For Rent Studio Apartment Unit in Pasay (near MRT LRT EDSA),Apartment,San Roque,Pasay,9000,1,1,0
+710,For Rent: Room (Female only) in Villamor Pasay,Room,Villamor Air Base,Pasay,12000,1,1,0
+711,"Flood-free area Studio Apartment for rent near Makati, Pasay, Metro Manila",Apartment,Libertad,Pasay,8500,1,1,0
+713,Two Bedroom Apartment for Rent in Pasay City near Metro-Point station,Apartment,San Roque,Pasay,15000,2,1,38
+714,For Rent Two Bedroom apartment near Metro-point Pasay City,Apartment,San Roque,Pasay,15000,2,1,38
+715,Two bedroom apartment near Metro point Station Pasay City for rent,Apartment,San Roque,Pasay,15000,2,1,38
+716,Two Bedroom Apartment For Rent near Metropoint Station Pasay,Apartment,San Roque,Pasay,15000,2,1,38
+717,For Rent Two Bedroom Apartment in Pasay Accessible TO MRT & LRT,Apartment,San Roque,Pasay,15000,2,1,38
+718,Two Bedroom Apartment For Rent in Pasay City near Metro Point Station,Apartment,San Roque,Pasay,15000,2,1,38
+719,Two Bedroom Apartment For Rent in Pasay City near Metro Point Station,Apartment,San Roque,Pasay,15000,2,1,38
+720,"Two Bedroom Apartment for rent near Metro-Point Station, Pasay",Apartment,San Roque,Pasay,15000,2,1,38
+721,"Two Bedroom Apartment for rent near Metro-Point Station, Pasay",Apartment,San Roque,Pasay,15000,2,1,38
+722,"2 -Bedroom Apartment For Rent, 351 E.Rivera St. Santa Clara",Apartment,Santa Clara,Pasay,17000,2,1,54
+723,Bedspace near Pasay Taft Rotonda - Ladies only,Bedspace,Pasay Rotonda,Pasay,2700,2,1,0
+724,Female Professionals in need of Bedspace free wifi,Bedspace,Edang,Pasay,2300,2,1,0
+725,Room for Rent Pasay City / Buendia Call us Now!,Room,San Isidro,Pasay,6000,2,1,0
+726,"Lady bedspace for Rent in 43 sampaloc street, Pildera II, Pasay City",Bedspace,Pildera II,Pasay,2100,3,1,30
+727,"Room for Rent for Ladies only in NAIA Terminal 3, Pasay City",Room,Maricaban,Pasay,2800,1,2,7
+728,"Male and Female Bedspacer near Mall of Asia, Makati Dfa, Manila",Bedspace,F.B Harisson,Pasay,2200,4,2,60
+730,Ladies Bedspace with Free WIFI,Bedspace,Edang,Pasay,2300,4,6,50
+738,Room for Rent for Ladies Only,Room,Juan Sumulong,Pasay,5000,1,0,0
+739,New rooms for rent near domestic airport (Terminal 4),Room,Don Carlos Village,Pasay,8000,6,0,0
+742,"Bedroom For Rent For Females Only at Flexihomes, Rosario, Pasig City",Room,Rosario,Pasig,3000,1,1,5
+743,room for rent 6sqm in pasig brgy rosario,Room,Rosario,Pasig,5000,1,1,6
+744,"Studio unit for rent at Rosario, Pasig City (Free Fiber Fast WiFi) Unit 503",Apartment,Rosario,Pasig,6200,1,1,10
+745,"Studio unit for rent at Rosario, Pasig City (with Fast WiFi) Unit 506",Apartment,Rosario,Pasig,6500,1,1,10
+746,"Studio unit for rent at Rosario, Pasig City (free Fiber fast WiFi) Unit 202",Apartment,Rosario,Pasig,5800,1,1,10
+747,"Studio unit for rent at Rosario, Pasig City (free Fiber fast WiFi) Unit 505",Apartment,Rosario,Pasig,6500,1,1,10
+748,Room Studio Type For Rent,Room,Manggahan,Pasig,5000,1,1,13
+749,Studio in Karangalan Village Pasig for rent,Apartment,Manggahan,Pasig,6000,1,1,14
+750,"For Rent Studio Type at St. Joseph Subdivision, Pasig City",Apartment,Santa Lucia,Pasig,5000,1,1,15
+751,"1 bedroom Apartment for rent in Bagong Ilog, Pasig, Metro Manila",Apartment,Bagong Ilog,Pasig,6000,1,1,15
+752,Room or Studio for rent in Greenpark Pasig nr Eastwood Libis Quezon City Ortigas,Room,Manggahan,Pasig,6500,1,1,16
+753,"Brand New Studio-Type Apartment Unit (Room for Rent) at Maybunga, Pasig City",Apartment,Pinagbuhatan,Pasig,6000,1,1,17
+754,Studio Type Apartment for rent,Apartment,Caniogan,Pasig,6500,1,1,20
+755,Room for rent Pinagbuhatan Pasig,Room,Pinagbuhatan,Pasig,4000,1,1,20
+756,room for rent pingabuhatan pasig,Room,Pinagbuhatan,Pasig,2500,1,1,20
+757,Room For Rent Studio Type De Castro Brgy. Sta Lucia Pasig City,Room,Santa Lucia,Pasig,7000,1,1,20
+758,"Studio Apartment unit for rent in Ciudad Grande2, Ortigas CBD, Pasig",Apartment,Ortigas CBD,Pasig,9000,1,1,20
+759,"Newly-painted Studio Type for Rent near Arcovia Pasig  PHP 7,000",Apartment,Ugong,Pasig,7000,1,1,20
+760,Studio unit in Kapitolyo Pasig For Rent,Apartment,Kapitolyo,Pasig,11000,1,1,21
+761,"Apartment Unit for Rent at Sagad, Pasig City",Apartment,Sagad,Pasig,8500,1,1,22
+762,"Studio Apartment for Rent in Pasig, San Miguel, Employees Village for 5K a month",Apartment,San Miguel,Pasig,5000,1,1,22
+763,Condo Unit For Rent at Amaia Steps Pasig,Condo,San Miguel,Pasig,4000,1,1,23
+764,"Condo Sharing (Upper Bed) - The Pearl Place, Ortigas Center, Pasig City",Condo,San Antonio,Pasig,10000,1,1,24
+765,Shine Residences For Rent Condo Sharing,Condo,Ugong,Pasig,5000,1,1,24
+766,"Condo Sharing (Lower Bed) - The Pearl Place, Ortigas Center, Pasig City",Condo,San Antonio,Pasig,10000,1,1,24
+767,Condo Sharing at The Pearl Place 1 Bed Available (MALE ONLY),Condo,San Antonio,Pasig,8000,1,1,24
+768,"One Bedroom Apartment for Rent in Caniogan, Pasig, Metro Manila",Apartment,Caniogan,Pasig,9700,1,1,25
+769,Studio Apartment for Rent - Caniogan Pasig City,Apartment,Caniogan,Pasig,6500,1,1,25
+770,1 Bedroom Apartment,Apartment,Rosario,Pasig,8600,1,1,26
+771,Apartment near Kapitolyo High,Apartment,Pineda,Pasig,10000,1,1,27
+772,Bed Space for Rent in Condominium Unit near Robinson Forum Mall,Condo,Kapitolyo,Pasig,5600,1,1,30
+773,"apartment for rent 28 east mendoza st., buting pasig city",Apartment,Buting,Pasig,7000,1,1,30
+774,bedspace for ladies wfh set up ok,Bedspace,Manggahan,Pasig,3000,1,1,30
+775,1 Bed Room - 31 sq. m. in JDPM CORBELL PLACE for rent,Room,San Antonio,Pasig,16000,1,1,31
+776,Apartment for rent in Manggahan Pasig,Apartment,Manggahan,Pasig,8000,1,1,35
+778,Bedspace in a Condo Room Sharing All In/Fully Furnished,Bedspace,Manggahan,Pasig,4500,1,1,48
+779,Studio type Room sharing Female Only,Room,Rosario,Pasig,2500,1,1,0
+780,4 Bed Deluxe Co-Living Room For Rent near Bridgetowne IPI in Pasig,Room,Rosario,Pasig,3750,1,1,0
+781,"Lady Bedspace at Mayfield Park Residences for Rent, Pasig",Bedspace,Rosario,Pasig,2100,1,1,0
+782,Studio apartment in 1521 F.Manalo St.Bambang Pasig City,Apartment,Bambang,Pasig,8000,1,1,0
+783,1 Bedroom Space For Rent in Pasig City (Female Only),Room,Maybunga,Pasig,5000,1,1,0
+784,1 Bedroom Apartment for rent in Manggahan Pasig,Apartment,Manggahan,Pasig,7500,1,1,0
+785,8 Bed Co-Living Room For Rent near Bridgetowne IPI in Pasig,Room,Rosario,Pasig,2450,1,1,0
+786,Micro Studio Double For Rent near Bridgetowne IPI in Pasig,Apartment,Rosario,Pasig,8000,1,1,0
+787,Male Bedspace in Pasig,Bedspace,San Nicolas,Pasig,2800,1,1,0
+788,Micro Studio 2 Single near Bridgetowne IPI in Pasig,Apartment,Rosario,Pasig,8000,1,1,0
+789,For Rent Corporate Staff House in Pasig City,House,Rosario,Pasig,15400,1,1,0
+790,6 Bed Standard Room For Rent near Bridgetowne IPI in Pasig,Room,Rosario,Pasig,2750,1,1,0
+791,"Studio Room rent in Kapitolyo, Pasig City",Room,Kapitolyo,Pasig,8000,1,1,0
+792,"Room for Rent in Maybunga, Pasig City, Metro Manila",Room,Maybunga,Pasig,3800,1,1,0
+793,"Bedspace for Females (Upper Bed) in Ortigas CBD, Pasig",Bedspace,Ortigas CBD,Pasig,5000,1,1,0
+794,"Female Bedspace in Catalina Subdivision for Rent, Pasig",Bedspace,Rosario,Pasig,2100,1,1,0
+795,"K1 Teresita Room for Rent in Kapitolyo, Pasig",Room,Kapitolyo,Pasig,8500,1,1,0
+796,"Condo Sharing at Sorrento Oasis, Caniogan, Pasig City",Condo,Rosario,Pasig,2100,2,1,30
+797,Condo Sharing - Female Tenant - Cambridge Village,Condo,Cambridge Village,Pasig,4500,2,1,30
+798,For Lease 2 Bedroom Apartment In Kapitolyo Pasig,Apartment,Kapitolyo,Pasig,28000,2,1,40
+799,Bed Space for Rent at Sheridan South Tower,Bedspace,Kapitolyo,Pasig,5300,2,1,40
+800,For Rent 2 bedroom Unit at Kapitolyo Pasig,Room,Kapitolyo,Pasig,30000,2,1,40
+801,2BR Apartment w parking in Greenpark Pasig nr Eastwood C5 Quezon City or Ortigas,Apartment,Manggahan,Pasig,18500,2,1,50
+802,Bedspace for Female in Cambridge Village/Condo near Ortigas Ave,Bedspace,Cambridge Village,Pasig,3500,2,1,50
+803,"Open for viewing everyday 8AM-5PM: 2BR Flat in San Joaquin, Pasig",Flat,San Joaquin,Pasig,12000,2,1,0
+804,Kapitolyo Room for Rent for Ladies,Room,Kapitolyo,Pasig,5500,1,2,0
+805,Bedspacer @ The Pearl Place Condo Pasig City Ortigas Center CBD area,Bedspace,San Antonio,Pasig,7950,2,2,48
+806,Bedspacer @ The Pearl Place Condo Pasig City Ortigas Center CBD area,Bedspace,San Antonio,Pasig,7950,2,2,48
+807,For Rent Condo Sharing (Bedspacers) for Females in Ortigas Center in Pasig,Bedspace,San Antonio,Pasig,4500,2,2,60
+808,"Ortigas Condo share (bedspace), a place like Home",Bedspace,Ortigas CBD,Pasig,5000,2,2,90
+809,Ortigas Bedspace Condoshare Dorm Condosharing Apartment Room Rent Condo share,Apartment,Ortigas CBD,Pasig,3500,2,2,100
+813,Room for rent at Villa Cuana Phase 1,Room,Pinagbuhatan,Pasig,2500,4,2,25
+814,Bedspace Ortigas Pasig for Rent Dorm Boaring house bed spacer near Mandaluyong,Bedspace,San Antonio,Pasig,3700,4,2,160
+815,"For Rent New Bedspace for as low as 3,600 in Kapitolyo Pasig City",Bedspace,Kapitolyo,Pasig,3600,8,4,0
+816,"Cozy ROOMS and BEDSPACES for LADIES Available for Rent in Ugong, Pasig",Bedspace,Ugong,Pasig,2150,8,5,0
+817,Bedspace/Room for Rent Ladies Only in Ugong Pasig City,Bedspace,Ugong,Pasig,2150,8,5,0
+818,"For Lease Rooms in  K1 Kapitolyo, Pasig City",Room,Kapitolyo,Pasig,8500,15,7,0
+819,Ladies Dorm Bedspace Ortigas Galleria Shaw Tiendesitas Eastwood Pasig,Bedspace,Rosario,Pasig,2100,15,11,350
+821,6 pax New Dormitory Bedspace in Pasig City near BGC Ortigas,Bedspace,Bagong Ilog,Pasig,3400,1,27,440
+822,6 pax New Dormitory Bedspace in Pasig City near BGC Ortigas,Bedspace,Bagong Ilog,Pasig,3400,1,27,440
+823,"2 pax New Dormitory Bedspace in Pasig City near BGC, Ortigas",Bedspace,Bagong Ilog,Pasig,6000,1,38,0
+824,"4 pax New Dormitory Bedspace in Pasig City near BDC, ortigas",Bedspace,Bagong Ilog,Pasig,4500,1,38,0
+825,For Rent Studio Type in Pasig - 22 sq. m.,Apartment,San Antonio,Pasig,11000,1,0,22
+826,1 Bed Room Apartment for rent in pasig - 25 sq. m.,Apartment,San Antonio,Pasig,13500,1,0,25
+827,"Exclusive Bedspace Unit for Ladies in Pasig, Maybunga - Unit 32",Bedspace,Maybunga,Pasig,2500,1,0,0
+828,Bedspace for GIRLS only! 2900 all IN per month. Pasig - Ortigas,Bedspace,Pineda,Pasig,2900,1,0,0
+829,"Studio For Rent at Pasig, Metro Manila",Apartment,Ortigas CBD,Pasig,4000,1,0,0
+832,"New 1BR apartment units for rent (near BGC, Ortigas, and Makati)",Apartment,Santo Rosario-Kanluran,Pateros,9500,1,1,25
+833,"Ladies Bedspace for rent in Central, Quezon City, Metro Manila",Bedspace,Central,Quezon City,2000,1,1,4
+834,Capsule Room for Rent Budget Bedspace With Privacy in Quezon City near Sm North,Bedspace,Veterans Village,Quezon City,2000,1,1,5
+835,Capsule Room for Rent Budget Bedspace With Privacy in Quezon City near Sm North,Bedspace,Veterans Village,Quezon City,2000,1,1,5
+836,"QC Room for Rent near GMA7, Timog, East Ave., V Luna and West Kamias",Room,Pinyahan,Quezon City,6000,1,1,9
+837,"3,500 - Studio Type Room for Two for rent",Room,Batasan Hills,Quezon City,3500,1,1,10
+838,"Room for Ladies Only at Bahay Toro, Quezon City",Room,Bahay Toro,Quezon City,8500,1,1,10
+839,Room for rent in Quezon City,Room,Tandang Sora,Quezon City,5000,1,1,12
+840,"Room for Rent in West Kamias, Quezon City",Room,West Kamias,Quezon City,4000,1,1,12
+841,1 room for rent,Room,Veterans Village,Quezon City,5000,1,1,12
+842,Room for rent near Banawe & Cordillera St.(E. Rod. side),Room,Aurora,Quezon City,5000,1,1,12
+843,"Room for Rent (for ladies) near U.P. Diliman and Teacher's Village, QC",Room,Krus Na Ligas,Quezon City,5500,1,1,12
+844,"Room For Rent in Tandang Sora, Quezon City near Trinoma, SM North Edsa",Room,Tandang Sora,Quezon City,5000,1,1,12
+845,"Studio Unit Project 7, Quezon City Near Back of Waltermart North Edsa for rent",Apartment,Project 7,Quezon City,5500,1,1,14
+846,Mini studio with loft for rent,Apartment,Commonwealth,Quezon City,5000,1,1,14
+847,"Room for Rent in Krus na Ligas, Quezon City",Room,Krus Na Ligas,Quezon City,5000,1,1,14
+848,"Studio Room For Rent - Project 7, QC Across SM Annex North Edsa",Room,Veterans Village,Quezon City,6000,1,1,14
+849,"Studio Room For Rent - Project 7, QC Across SM Annex North Edsa",Room,Veterans Village,Quezon City,6000,1,1,14
+850,Lady bedspacer at quezon avenue quezon city,Bedspace,Santa Cruz,Quezon City,2800,1,1,15
+851,Room for Rent near Delmonte-Roosevelt-Frisco,Room,Del Monte,Quezon City,6000,1,1,15
+852,"One (1) Bed Room Unit in batasan hills, quezon city",Room,Batasan Hills,Quezon City,5000,1,1,15
+853,"4,000 - Cozy Studio Type Room for Rent with Own CR and Sink",Room,Batasan Hills,Quezon City,4000,1,1,15
+854,"For Rent 17 sq. m. Boarding House near SM Fairview Fairview, Quezon City",House,Novaliches,Quezon City,6000,1,1,15
+855,Brand new studio unit in Project 4 walking distance to QMMC HOSP,Apartment,Marilag,Quezon City,10500,1,1,16
+856,Studio Type Room for Rent near Roosevelt-Delmonte-Munoz-Frisco-Fishermall,Room,Del Monte,Quezon City,6000,1,1,17
+857,Studio-Type Apartment for Rent near FEU-NRMF,Apartment,Fairview,Quezon City,8000,1,1,17
+858,Room for Rent for Ladies Only,Room,Amihan,Quezon City,6000,1,1,17
+859,frisco quezon city studio type apartment for rent,Apartment,San Antonio,Quezon City,7500,1,1,17
+860,"Studio type Room for rent near Frisco, Roosevelt, Munoz",Room,Del Monte,Quezon City,6000,1,1,18
+861,Studio Apartment for Lease (perfect for students and professionals),Apartment,Loyola Heights,Quezon City,25000,1,1,18
+862,Studio Type Apt unit for rent at 80 Road 13 Residences Bagong PagAsa Quezon City,Apartment,Bagong Pag-Asa,Quezon City,8500,1,1,18
+863,"Studio For Rent in Masikap, QC. Near VLuna Kalayaan EastAve PHC EAMC",Apartment,Pinyahan,Quezon City,9500,1,1,18
+864,Studio Type Room near Visayas Ave,Room,Culiat,Quezon City,4000,1,1,18
+865,"Male Bedspace Condo Sharing Mplace Near Eton Centris, ABSCBN Quezon Ave",Bedspace,Diliman,Quezon City,4500,1,1,18
+866,Studio-typed Apartment w/ 1 Room and T&B. in A very accessible subdivision in QC,Apartment,Sauyo,Quezon City,5000,1,1,18
+867,Studio Apartment for Rent nr Eastwood and Cubao (O-FCPV-JP-002) in Quezon City,Apartment,Bayanihan,Quezon City,8000,1,1,18
+868,"Frisco near Fisher Mall- Studio Unit w/ kitchen, toilet/bath, parking space",Apartment,Mariblo,Quezon City,6500,1,1,19
+869,"Studio Type and 1 Bedroom Apartment For Rent in Del Monte, Quezon City",Apartment,Del Monte,Quezon City,8500,1,1,19
+870,"Studio Room Congressional/Shorthorn Near LRT, MRT, SM, Trinoma",Room,Congressional Avenue,Quezon City,5500,1,1,20
+871,Newly Renovated Studio Apartment in QC,Apartment,Diliman,Quezon City,13000,1,1,20
+872,studio 3 room apartment for rent in scout fuentabella Brgy Laging Handa QC,Apartment,Laging Handa,Quezon City,8500,1,1,20
+873,studio 4 room apartment for rent in scout fuentabella qc,Apartment,Laging Handa,Quezon City,8500,1,1,20
+874,Dormtel for Rent in Quezon City Near Sm North EDSA-Phase 1 Door 4,Dormtel,Bungad,Quezon City,2500,1,1,20
+875,"For rent Studio Type Room near Visayas Avenue, Culiat, Quezon City",Room,Culiat,Quezon City,4500,1,1,20
+876,"Studio Type Apartment unit for rent in Bagong Pag-asa, Quezon City",Apartment,Bagong Pag-Asa,Quezon City,9000,1,1,20
+877,Bedspace room for rent Quezon City Commonwealth QC Ever Cirlce,Bedspace,Commonwealth,Quezon City,1900,1,1,20
+878,Furnished Studio for Lease in Prima Residences,Apartment,Tatalon,Quezon City,15000,1,1,20
+879,Studio room Quezon City near LRT Roosevelt Edsa Munoz,Room,Congressional Avenue,Quezon City,6000,1,1,20
+880,"Room for Rent in Teachers Village, Quezon City",Room,Teachers Village West,Quezon City,8000,1,1,20
+881,Ladies Dorm Room For Rent New And Furnished Beside UP Town Center,Room,Pansol,Quezon City,2000,1,1,20
+882,Studio Type Room Apartment In Scout Fuentabella,Apartment,Laging Handa,Quezon City,8500,1,1,20
+883,"Rent: Fully furnished brand new studio type ,with kitchenette and cr with heater",Apartment,San Bartolome,Quezon City,6000,1,1,20
+884,studio 2 room apartment for rent in scout fuentabella Brgy Laging Handa QC,Apartment,Laging Handa,Quezon City,8500,1,1,20
+885,"Studio type for Rent @ U.P. Village, For single occupancy...",Apartment,Diliman,Quezon City,12000,1,1,20
+886,"Fully furnished Condo Sharing for rent in Batasan Hills, Quezon City",Condo,Batasan Hills,Quezon City,6000,1,1,21
+887,"1 Bedroom Studio Type Apartmetn for Rent in Del Monte, Quezon City",Room,Del Monte,Quezon City,9000,1,1,22
+888,1 studio-type apartment near visayas ave,Apartment,Culiat,Quezon City,12000,1,1,22
+889,Spacious Studio for Rent in Krus na Ligas,Apartment,Krus Na Ligas,Quezon City,8000,1,1,22
+890,For Rent: 22 sqm. Studio Type Apartment in Quezon City,Apartment,Quirino 3-A,Quezon City,9000,1,1,22
+891,Residenciale Boutique Apartments,Apartment,Central,Quezon City,15000,1,1,23
+892,Luxury Student Dormitory in Katipunan near ADMU and UP Diliman,Dormitory,Loyola Heights,Quezon City,7500,1,1,23
+893,"For Rent Apartment in Del Monte, Quezon City with 1 Bedroom Studio Type Unit",Apartment,Del Monte,Quezon City,10000,1,1,23
+894,"Studio Type Apartment with 1 Bedroom For Rent in Del Monte, Quezon City",Apartment,Del Monte,Quezon City,10000,1,1,23
+895,"Apartment with 1 Bedroom Studio Type in Del Monte, Quezon City for Rent",Apartment,Del Monte,Quezon City,10000,1,1,24
+896,Studio Condo for Rent near SM Fairview Novaliches Quezon City,Apartment,Kaligayahan,Quezon City,6000,1,1,24
+897,"For Rent Apartment in Del Monte, Quezon City with 1 Bedroom Studio Type",Apartment,Del Monte,Quezon City,10000,1,1,24
+898,"Aparment in Del Monte, Quezon City for Rent with 1 Bedroom Studio Type",Room,Del Monte,Quezon City,9500,1,1,24
+899,Studio Type Apartment for Rent in Novaliches Quezon City,Apartment,San Agustin,Quezon City,4000,1,1,24
+900,"For Rent Studio Type Apartment with 1 Bedroom in Del Monte, Quezon City",Apartment,Del Monte,Quezon City,10000,1,1,24
+901,"Apartment for Rent with 1 Bedroom Studio Type in Del Monte, Quezon City",Apartment,Del Monte,Quezon City,10000,1,1,24
+902,"1 Bedroom Studio Type Apartment in Del Monte, Quezon City for Rent",Apartment,Del Monte,Quezon City,10000,1,1,24
+903,"1 Bedroom Apartment unit for Rent in Sacred Heart, Quezon City",Apartment,Sacred Heart,Quezon City,10000,1,1,24
+904,Mini Apartment in Cubao,Apartment,Cubao,Quezon City,12000,1,1,24
+905,Apartment for Rent at Robbinsdale,Apartment,Doña Imelda,Quezon City,25000,1,1,24
+906,Studio Condo for Rent near SM Fairview Novaliches Quezon City,Apartment,Kaligayahan,Quezon City,6000,1,1,24
+907,For rent 1 Bedroom Apartment located Between E. rodriguez and Edsa Cubao,Apartment,Pinagkaisahan,Quezon City,11500,1,1,25
+908,"Leasing-001: Apartment Rooms for Rent at Quezon City, Metro Manila",Apartment,Batasan Hills,Quezon City,8000,1,1,25
+909,Male Bed Space at MPlace Condo Sharing ABS CBN Centris Q.C,Condo,South Triangle,Quezon City,4500,1,1,25
+910,Studio Unit near Anonas LRT station For Rent in Quezon City,Apartment,Quirino 2-A,Quezon City,10000,1,1,25
+911,Market Place Room for Rent in Cubao,Room,Kaunlaran,Quezon City,4300,1,1,25
+912,1 Bedroom Apartment for rent,Apartment,Pinagkaisahan,Quezon City,11500,1,1,25
+913,"Apartment in Quezon City Del Monte, For Rent with 1 Bedroom Studio Type",Apartment,Del Monte,Quezon City,10400,1,1,25
+914,Studio Type Apartment in Fairmont Park Subdivision,Apartment,Fairview,Quezon City,5000,1,1,25
+915,Room for Rent in Teachers Village,Room,Diliman,Quezon City,7300,1,1,25
+916,"Spacious Room with CR for Rent in Kamuning, Quezon City, Metro Manila",Room,Kamuning,Quezon City,4500,1,1,25
+917,1 Bedroom Loft for Rent in QC,Room,Sikatuna Village,Quezon City,15000,1,1,25
+918,1 bedroom apartment for rent in Corumi St Masambong Quezon City,Apartment,Masambong,Quezon City,10000,1,1,25
+919,Jrich La Rossa Apartment For Rent in Quezon City,Apartment,Diliman,Quezon City,25000,1,1,25
+920,"Apartment Studio Type with 1 Bedroom for Rent in Del Monte, Quezon City",Apartment,Del Monte,Quezon City,10400,1,1,26
+921,"1 Bedroom Apartment at 15 Albany Cubao, Quezon City",Apartment,Silangan,Quezon City,9700,1,1,27
+922,Cubao 1 Bedroom Apartment For Rent,Apartment,Cubao,Quezon City,17000,1,1,27
+923,For Rent Studio unit in Pine Crest Aurora Boulevard corner Balete Drive,Apartment,Horseshoe,Quezon City,15000,1,1,28
+924,1 Queen sized-bed w/ walk in closet and bathroom,Room,Laging Handa,Quezon City,30000,1,1,28
+925,Apartment for Rent in Sta. Mesa Heights,Apartment,N.S. Amoranto,Quezon City,11000,1,1,28
+926,"Studio for Rent: Masikap Quezon City near V. Luna East Ave., Kalayaan PHC EAMC",Apartment,Pinyahan,Quezon City,11500,1,1,28
+927,Studio Type and 1 Bedroom Units for Rent,Room,Don Manuel,Quezon City,10000,1,1,30
+928,"2 BR Apartment in Brgy. Talipapa, QC for rent",Apartment,Talipapa,Quezon City,7000,1,1,30
+929,"Studio Apartment for rent at Northview 2, Batasan Hills, Quezon City",Apartment,Batasan Hills,Quezon City,9000,1,1,30
+930,Condo Share or Bedspace for Female in Araneta City Cubao near MRT & LRT Stations,Bedspace,Cubao,Quezon City,5000,1,1,30
+931,"Solo Room For Rent in Holy Spirit,  Luzon Avenue Quezon City",Room,Holy Spirit,Quezon City,4000,1,1,30
+932,Semi-Furnished Studio Type For Rent,Apartment,Culiat,Quezon City,6000,1,1,30
+933,"Apartment 1 bedroom, bare for rent in cubao quezon city",Apartment,Cubao,Quezon City,13000,1,1,30
+934,apartment for rent 1 bedroom 1 bathroom,Apartment,Damayan,Quezon City,14000,1,1,30
+935,Ladies Bedsheet for Rent Mplace Condo 6K,Condo,South Triangle,Quezon City,6000,1,1,30
+936,Ladies Bedspace (Aircon) Two Bedspaces Available,Bedspace,West Triangle,Quezon City,2500,1,1,30
+937,"Apartment 1 Bedroom unit, Bare for Rent in Cubao, Quezon City",Apartment,Cubao,Quezon City,13000,1,1,30
+938,"1 Bedroom Unit w/ available parking space, flood free in proj 8, sangandaan, qc",Room,Sangandaan,Quezon City,10000,1,1,30
+939,"Lady Bedspace in Boarding House for Rent, QC",Bedspace,Project 4,Quezon City,4000,1,1,30
+940,17.5 sqm Furnished Studio at Northview 2 Q.C - Free Furnishing,Apartment,Batasan Hills,Quezon City,10800,1,1,30
+941,1 bedrooom condominium-style room,Room,Socorro,Quezon City,11000,1,1,30
+942,For Rent Condo Sharing Mplace at South Triangle Quezon City near ABS CBN,Condo,South Triangle,Quezon City,5000,1,1,30
+943,1 Bedroom 30 sqm Apartment For Rent,Apartment,Veterans Village,Quezon City,12000,1,1,30
+944,1 Bedroom 30 sqm Apartment For Rent,Apartment,Veterans Village,Quezon City,12000,1,1,30
+945,"Studio type Apartment for rent at Sacred Heart, Quezon City",Apartment,Sacred Heart,Quezon City,14000,1,1,31
+946,Room for rent in Fairview,Room,Sauyo,Quezon City,4700,1,1,32
+947,For Rent Apartment in Apocar Subdivision,Apartment,Novaliches,Quezon City,7000,1,1,32
+948,apartment for rent near sm north,Apartment,Alicia,Quezon City,10000,1,1,33
+949,Apartment for rent Studio Type,Apartment,Central,Quezon City,12300,1,1,34
+950,For Rent: 1-Bedroom Apartment in Quezon City,Apartment,Doña Imelda,Quezon City,8000,1,1,35
+951,Apartment Condo for Rent at Cubao Quezon City,Apartment,Immaculate Concepcion,Quezon City,9000,1,1,35
+952,Liberty Condo-Style Apartment for Rent Females Only,Apartment,Socorro,Quezon City,18000,1,1,35
+953,"For Rent: Project 4, QC. 1Br on 2nd Floor, near QMMC PTuazon C5 Cubao Eastwood House",House,Milagrosa,Quezon City,14500,1,1,36
+954,Lady Bedspace Eastwood libis condo sharing,Bedspace,Bagumbayan,Quezon City,3800,1,1,38
+955,"For Rent 1 Bedroom Studio Type Apartment in Del Monte, Quezon City",Apartment,Del Monte,Quezon City,12800,1,1,40
+956,Apartment Unit for Rent at The Hanseng Place near UERM,Apartment,Doña Imelda,Quezon City,11000,1,1,40
+957,"Apartment unit for Rent at 784 Tandang Sora, Old Balara, Quezon City",Apartment,Matandang Balara,Quezon City,5000,1,1,40
+958,1 bedroom apartment unit for rent in scout Fuentabella Quezon city,Apartment,Laging Handa,Quezon City,13500,1,1,40
+959,"Studio room  in 48 Villa Rebecca Townhomes, Banlat, Quezon City for rent",Room,Tandang Sora,Quezon City,7500,1,1,45
+960,"apartment Studio unit for rent in Villa Rebecca Townhomes, Banlat, Quezon City",Apartment,Tandang Sora,Quezon City,7000,1,1,45
+961,New Manila-QC Cozy Starter House,House,Mariana,Quezon City,15000,1,1,45
+962,"4 Bedspace - P30,000/Month - Residence at Commonwealth by Century",Bedspace,Batasan Hills,Quezon City,30000,1,1,48
+963,Rook for Rent 1 Bedroom Apartment at Commonwealth Quezon City,Apartment,Batasan Hills,Quezon City,25000,1,1,49
+964,Apartment for rent at Villa Rebecca Townhomes 3,Apartment,Tandang Sora,Quezon City,7500,1,1,50
+965,"apartment 1 bedroom, bare for rent in cubao quezon city",Apartment,Cubao,Quezon City,16000,1,1,50
+966,"Apartment 1 Bedroom unit, Bare For Rent in Cubao, Quezon City",Apartment,Cubao,Quezon City,16000,1,1,50
+967,"Apartment For Rent in Barangay Santol, Quezon City",Apartment,Santol,Quezon City,10000,1,1,50
+968,Rooms for overnight stay starts at P 800,Room,Santa Teresita,Quezon City,800,1,1,50
+969,Apartment with 1 bedroom for rent,Apartment,Immaculate Concepcion,Quezon City,17000,1,1,54
+970,Permanent apartment for rent in QC,Apartment,Obrero,Quezon City,15000,1,1,55
+972,"Apartment unit for Rent GSIS Hills, Talipapa, Quirino Highway, Quezon City",Apartment,Novaliches,Quezon City,6500,1,1,60
+973,"1 br Residential ,Office, storage, space for lease in odelco novaliches QC",Residential,Novaliches,Quezon City,7000,1,1,60
+976,New Manila-Quezon City Bricks Loft for Rent,Loft,New Manila,Quezon City,20000,1,1,75
+977,apartment for rent quezon city,Apartment,Ramon Magsaysay,Quezon City,8000,1,1,90
+978,"Katipunan Dormitory Rooms for Rent near Ateneo, UP, Miriam",Room,Loyola Heights,Quezon City,4500,1,1,100
+979,"Room Rental/Bedspace in Cubao, Quezon City",Bedspace,Cubao,Quezon City,4500,1,1,0
+980,Budget Room for Rent for Males and Females in Fairview Quezon City near FEU-NRMF,Room,Fairview,Quezon City,5500,1,1,0
+981,Budget Room for Rent for Males and Females in Fairview Quezon City near FEU-NRMF,Room,Fairview,Quezon City,7500,1,1,0
+982,Transient at Congressional Town Center,Transient,Bahay Toro,Quezon City,1500,1,1,0
+983,Lady Bedspace for Rent in Quezon City,Bedspace,Sikatuna Village,Quezon City,4800,1,1,0
+984,"Bedspace for working ladies, Quezon City",Bedspace,Laging Handa,Quezon City,3500,1,1,0
+985,"Room near UP Technohub for Rent, Q.C",Room,Commonwealth,Quezon City,4000,1,1,0
+986,"Room in 2-Storey Building for Rent, QC",Building,Manresa,Quezon City,8000,1,1,0
+987,Rooms for Rent,Room,Teachers Village West,Quezon City,16000,1,1,0
+988,"Bedspace For Girls in West Triangle, Quezon City",Bedspace,West Triangle,Quezon City,2500,1,1,0
+989,"Studio-type Apartment for rent, Fairview, Quezon City",Apartment,Fairview,Quezon City,5000,1,1,0
+990,LADY BEDSPACER. Upper Deck in New York Mansion,Bedspace,E. Rodriguez,Quezon City,2200,1,1,0
+991,Bedspace for Ladies in Villa Espana Subdivision,Bedspace,Tatalon,Quezon City,2200,1,1,0
+992,"1 Bedroom & 1 T&B for rent at Immaculate Concepcion, Quezon City",Room,Immaculate Concepcion,Quezon City,14000,1,1,0
+993,Room for rent in CUBAO,Room,Socorro,Quezon City,6500,1,1,0
+994,Budget Room for Rent for Males and Females in Fairview Quezon City near FEU-NRMF,Room,Fairview,Quezon City,6000,1,1,0
+995,"Bedspace for Rent in San Francisco del Monte, QC",Bedspace,Del Monte,Quezon City,2750,1,1,0
+996,Room for Rent near Eastwood City!,Room,Bagumbayan,Quezon City,10000,1,1,0
+997,"Bedspace for rent in Novaliches, Quezon City, Metro Manila",Bedspace,Novaliches,Quezon City,2000,1,1,0
+998,Female only Room for Rent V. Luna Pinyahan,Room,Pinyahan,Quezon City,5000,1,1,0
+999,"Bedspace in Zamboanga st., West avenue, Quezon City",Bedspace,West Triangle,Quezon City,2500,1,1,0
+1000,Primespot Bedspace (For Girls Only !),Bedspace,West Triangle,Quezon City,2500,1,1,0
+1001,"Room for Rent at Santo Cristo, Quezon City",Room,Santo Cristo,Quezon City,5000,1,1,0
+1002,Room for Rent (Studio Type),Room,Santo Cristo,Quezon City,5000,1,1,0
+1003,Bedspace/Room for rent near UP Diliman and Technohub,Bedspace,Diliman,Quezon City,3500,1,1,0
+1004,Spacious Studio Type Apartment w/ Garage can put Business in it,Apartment,Nagkaisang Nayon,Quezon City,4500,1,1,0
+1005,Apartment for Rent with 1 Bedroom in Manotok Subdivision,Apartment,Baesa,Quezon City,7500,1,1,0
+1006,"For Lease: Fully Furnished Male and Female Dormitory in Prima Residences, Quezon City",Dormitory,Tatalon,Quezon City,4000,1,1,0
+1008,"Bedspace for Ladies near Anonas Station for Rent, QC",Bedspace,Project 3,Quezon City,2700,1,1,0
+1009,"Budget Room For Rent for Solo or Couple, Fairview Quezon City, near FEU-NRMF",Room,Fairview,Quezon City,5500,1,1,0
+1010,"Ladies Bedspace for Rent near SM North Edsa and Trinoma, QC",Bedspace,Project 6,Quezon City,2300,1,1,0
+1011,Room for Rent (Studio Type),Room,Santo Cristo,Quezon City,5000,1,1,0
+1012,"2 Bedroom Apartment for Rent in Luzon Ave., Quezon City Philippines",Apartment,Veterans Village,Quezon City,7000,2,1,30
+1013,"For Rent Apartment @ St. Dominic 5, Tandang Sora, Quezon City",Apartment,Tandang Sora,Quezon City,18000,2,1,35
+1014,"2 Bedroom w/ parking in Sofia Bellevue, 5th flr near UP Diliman, Quezon for rent",Room,Capitol Hills,Quezon City,20000,2,1,36
+1015,"Apartment for rent in Lazaro Subd. Damong Maliit Novaliches, Quezon City",Apartment,Nagkaisang Nayon,Quezon City,5000,2,1,40
+1016,"Apartment in Cubao, Quezon City for Rent",Apartment,E. Rodriguez,Quezon City,12000,2,1,40
+1017,2 Bedrooms with Parking For Rent at North Fairview Park Subd.,Room,Fairview,Quezon City,15000,2,1,40
+1018,"Bed spacers room, near Quirino Memorial Hospital and Colleges in QC",Room,Project 4,Quezon City,6000,2,1,40
+1019,"2-Story, 2 Bedroom Apartment for Rent",Apartment,Apolonio Samson,Quezon City,15000,2,1,40
+1020,"2-Story, 2 Bedroom Apartment for Rent",Apartment,Apolonio Samson,Quezon City,15000,2,1,40
+1021,Apartment Studio Type for Rent near Fishermall-Munoz-Frisco,Apartment,Del Monte,Quezon City,15000,2,1,45
+1022,Apartment for Rent 2 Bedroom 45sqm - 9K,Apartment,Pasong Tamo,Quezon City,9000,2,1,45
+1023,2BR 1TB Apartment walking distance to SM North,Apartment,Bagong Pag-Asa,Quezon City,14000,2,1,46
+1024,2 Bedroom 1 T&B Sta. Lucia QC,Room,Santa Lucia,Quezon City,12000,2,1,50
+1025,2BR Apartment for Rent Brand New Condo Style Unit in Fairmont Regalado Highway,Apartment,Fairview,Quezon City,12000,2,1,50
+1026,For Lease : 1 Bedroom Condo Sharing The Amaryllis New Manila Quezon City,Room,New Manila,Quezon City,12000,2,1,58
+1027,"Unfurnished 2 Bedrooms Apartment at Ubay St., Quezon City",Apartment,Sienna,Quezon City,18000,2,1,60
+1028,"2 Bedroom Apartment for rent at Pasong Tamo, Quezon City, Metro Manila",Apartment,Pasong Tamo,Quezon City,12000,2,1,60
+1029,2-bedroom apartment for rent in proj.7 Quezon City,Apartment,Project 7,Quezon City,15000,2,1,60
+1030,2 Bedroom Apartment with Loft for rent,Apartment,Valencia,Quezon City,21000,2,1,70
+1031,"For Rent: 2 Bedroom Apartment for Rent at Tandang Sora Avenue, Quezon City",Apartment,Culiat,Quezon City,15000,2,1,70
+1033,Kamias Residential Apartment for rent,Apartment,East Kamias,Quezon City,16005,2,1,80
+1034,Apartment with Good Parking Near SM & Robinson and Ayala Terraces Fairview,Apartment,Novaliches,Quezon City,13000,2,1,80
+1035,"2 bedroom apartment for rent in 40 - 14th Avenue, Murphy Quezon City",Apartment,Socorro,Quezon City,20000,2,1,100
+1036,"2 Bedroom Apartment unit for rent in Cubao, Quezon City",Apartment,Cubao,Quezon City,16900,2,1,0
+1037,"2 Bedroom Apartment for Rent  in East Kamias, Quezon City, Metro Manila",Apartment,East Kamias,Quezon City,16000,2,1,0
+1038,Bed space/Unit sharing for males,Condo,E. Rodriguez,Quezon City,3500,2,1,0
+1039,2 Bedroom Apartment For Rent,Apartment,Holy Spirit,Quezon City,12000,2,1,0
+1040,fairview apartment rental,Apartment,Fairview,Quezon City,15000,2,1,0
+1041,"Female Bedspace for rent in Cubao, Quezon City, Metro Manila",Bedspace,Cubao,Quezon City,3500,2,1,0
+1042,Commonwealth QC BedSpace For Rent,Bedspace,San Vicente,Quezon City,2500,2,1,0
+1043,Lady Bedspace in Mapang-Akit 16 Quezon city,Bedspace,Pinyahan,Quezon City,2500,3,1,25
+1044,Apartment for rent in Quezon City (with parking space),Apartment,Fairview,Quezon City,18000,3,1,35
+1045,"Bedspace for Rent for 2 females in Sikatuna BLISS, Quezon City",Bedspace,U.P.,Quezon City,3500,3,1,60
+1046,3 Bedroom Apartment For Rent in Quezon City,Apartment,Socorro,Quezon City,30000,3,1,100
+1047,3 bedroom apartment for rent,Apartment,Santo Niño,Quezon City,15000,3,1,120
+1048,Bedroom apartment Near Cubao,Apartment,San Roque,Quezon City,6000,3,1,0
+1049,Room for rent in a 3 bedroom townhouse,Room,San Antonio,Quezon City,14000,1,2,12
+1050,Room for rent in a 3 bedroom townhouse,Room,San Antonio,Quezon City,14000,1,2,12
+1051,Room for rent near Anonas LRT-Station FOR LADIES ONLY,Room,Quirino 2-A,Quezon City,7000,1,2,100
+1052,Bedspace for Rent in Pook Palaris inside UP Diliman,Bedspace,Diliman,Quezon City,2700,1,2,0
+1053,Female Bedspace for rent,Bedspace,Don Manuel,Quezon City,3300,2,2,25
+1054,Aircon Room with WIFI for rent to Lady Bedspacers in Novaliches,Bedspace,Nagkaisang Nayon,Quezon City,1500,2,2,35
+1055,Very accessible 2 Bedroom Apartment Located inside a private subdivision,Apartment,Pasong Tamo,Quezon City,12000,2,2,45
+1056,Apartment for Rent Cubao Quezon City near LRT2 Cubao Stella Maris College,Apartment,E. Rodriguez,Quezon City,20000,2,2,48
+1057,JQ Apartment for Rent in Banawe Quezon City,Apartment,Manresa,Quezon City,22000,2,2,50
+1058,"rooms for rent in 9 Guijo St., Northview 2, Batasan Hills, Q.C.",Room,Batasan Hills,Quezon City,7000,2,2,50
+1059,Room for Rent near UP Diliman and UP Techno Hub,Room,Diliman,Quezon City,2500,2,2,56
+1060,For Rent: House Fairview Quezon City in Greater Lagro Subdivision,House,Novaliches,Quezon City,15000,2,2,60
+1061,"Male Bedspace for Rent at Diliman, Quezon City",Bedspace,Diliman,Quezon City,3500,2,2,60
+1063,2 bedroom apartment for rent in scout fuentabella Brgy Laging Handa QC,Apartment,Laging Handa,Quezon City,18000,2,2,75
+1064,New and Fresh 2 Storey Spacious and Secure Apartment - for Home and Office,Apartment,Novaliches,Quezon City,25000,2,2,80
+1065,"2BR,1Study/Office Rm, 1ensuite bathroom w/bathtub,1CR, Laundry Room,2Port garage",Room,San Bartolome,Quezon City,25000,2,2,100
+1066,"2BR,2Port Gated Garage, 1study/work station,1ensuite bathroom w/tub &heater,1CR",Room,San Bartolome,Quezon City,23000,2,2,100
+1067,"2 Storey Apartment For Rent in Cubao, Quezon City",Apartment,Cubao,Quezon City,30000,2,2,120
+1068,"For rent apartment 2 Floor, 2 Bedroom & 2 Bathroom in New Manila QC",Apartment,Mariana,Quezon City,22000,2,2,120
+1069,"Room for Rent in 3rd flr near IBP Rd. & Litex Rd., QC",Room,Payatas,Quezon City,6000,2,2,120
+1070,"Townhouse for Rent at Embassy Terrace Homes near UP, Ateneo and Katipunan",House,Congressional Avenue,Quezon City,27000,2,2,125
+1072,"2 Bedroom Apartment in Cubao near Malls, Hospitals & Schools",Apartment,Cubao,Quezon City,25000,2,2,160
+1074,2 bedroom apartment with garage in north fairview,Apartment,Fairview,Quezon City,15000,2,2,0
+1075,"Female bedspacer for only P2,000 per month!",Bedspace,Santa Cruz,Quezon City,2000,2,2,0
+1078,Bedspace for Male & Female,Bedspace,Fairview,Quezon City,3000,3,2,20
+1079,3br/2tb apartment 40sqm walking distance to mrt/lrt araneta center cubao station,Apartment,E. Rodriguez,Quezon City,20000,3,2,40
+1082,Jq 3 Bedroom Apartment For Rent Near Banawe Quezon City,Apartment,Manresa,Quezon City,30000,3,2,60
+1083,Bedspace Condo unit for rent at Suntrust Capitol Plaza,Bedspace,Diliman,Quezon City,3500,3,2,78
+1084,"Very accessible 3 Bedroom 2 Toilet/Bath Apartment, inside a private subdivision.",Apartment,Sauyo,Quezon City,12000,3,2,80
+1087,Modern 3 Bedroom Apartment for Rent in Quezon city,Apartment,Project 6,Quezon City,30000,3,2,120
+1089,"3br/2tb apartment for rent in bgy. Sta. Teresita, Sta. Mesa heights",Apartment,Santa Teresita,Quezon City,30000,3,2,200
+1093,"Scout area QC prime location, corner unit, 2 bdrm plus 1 office space, 1 garage",Condo,Sacred Heart,Quezon City,30000,3,2,0
+1094,Affordable And Cheap Bedspace For Ladies In Quezon City,Bedspace,Holy Spirit,Quezon City,1600,4,2,40
+1096,Primespot Bedspace in 12F The One Executive Bldg.,Bedspace,Santa Cruz,Quezon City,2500,4,2,176
+1097,No Deposit Bedspace in Cubao Girls only,Bedspace,E. Rodriguez,Quezon City,2100,1,3,600
+1100,"Bedspace for Rent in Brgy. Pinyahan, Quezon City",Bedspace,Pinyahan,Quezon City,2500,3,3,0
+1101,Lady Bedspacers For Rent in Quezon City Near UP Technohub,Bedspace,New Era,Quezon City,1850,4,3,10
+1103,Male Bedspace in Quezon City,Bedspace,Pinyahan,Quezon City,2800,5,3,65
+1105,For Lady Bedspacers - 2 bedrooms with 2 double-deck beds each,Bedspace,Novaliches,Quezon City,2200,2,4,30
+1106,Valerie's Lady Bedspace,Bedspace,Pinyahan,Quezon City,2500,3,4,150
+1107,"Bed space or room for rent in a beautiful condo, female only in Bagong Pagasa QC",Room,Bagong Pag-Asa,Quezon City,2700,4,4,65
+1108,"bed space or room for rent, female only, bagong pagasa, quezon City",Room,Bagong Pag-Asa,Quezon City,2700,4,4,65
+1109,Male/Female bedspacer Dormitory room for rent,Bedspace,Fairview,Quezon City,2500,4,4,120
+1112,"Room for Rent ladies only in Maginoo St, Teachers Village Quezon City",Room,Pinyahan,Quezon City,7000,4,5,70
+1113,New Renovated Studios/ Rooms (Calamba) Near CGH & UBelt,Room,Salvacion,Quezon City,4500,5,5,12
+1115,"A Clean, Comfortable,  Bedspace Facility For Ladies Kamuning Tomas Morato Area",Bedspace,Kamuning,Quezon City,2900,5,5,0
+1116,Citihub Dormitory is a bedspace dormitory,Bedspace,Apolonio Samson,Quezon City,1900,50,7,40
+1117,"Dormitory near Ateneo, UP, CCA-Manila, Miriam, CDep, ISCAHM..Katipunan area",Dormitory,Loyola Heights,Quezon City,9000,22,18,20
+1118,For Lease Dorm (Male & Female) unit in Prima Residences,Condo,Tatalon,Quezon City,4000,1,0,20
+1119,Budget Room for Rent for Males and Females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,4500,1,0,0
+1120,Budget room for rent for males and famales in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,6000,1,0,0
+1121,Budget room for rent for males and females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,7500,1,0,0
+1122,Room for rent in Quezon City,Room,Diliman,Quezon City,9500,1,0,0
+1123,Budget room for rent for males and females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,6500,1,0,0
+1124,Budget room for rent for males and females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,8500,1,0,0
+1125,Ladies' Bedspace in Tempus Building 2 Quezon City,Building,Central,Quezon City,3500,1,0,0
+1126,For lady Bedspacer only,Bedspace,E. Rodriguez,Quezon City,2500,1,0,0
+1127,Ladies Dormitory,Dormitory,Loyola Heights,Quezon City,4000,1,0,0
+1128,Budget room for rent for males and females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,6000,1,0,0
+1129,Budget room for rent for males and females in Fairview QC  near FEU-NRMF Regalad,Room,Fairview,Quezon City,6000,1,0,0
+1130,Budget room for rent for males and females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,6500,1,0,0
+1131,Budget room for rent for males and females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,7500,1,0,0
+1132,Budget Room for Rent for Males and Females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,4500,1,0,0
+1133,SMDC Blue Residences 1br For Rent 3 bedspaces,Bedspace,Loyola Heights,Quezon City,7500,1,0,0
+1134,Budget Room for Rent for Males and Females in Fairview QC near FEU-NRMF Regalado,Room,Fairview,Quezon City,7000,1,0,0
+1135,"Transient/Guest Room (D) for Rent in Casablanca Manila Guesthouse, Quezon City",Transient,Tandang Sora,Quezon City,2200,1,0,0
+1136,Lady Bedspacer in Tandang Sora QC,Bedspace,Tandang Sora,Quezon City,2200,1,0,0
+1137,"Hive Apartment - Bedspace for rent at E. Rodriguez, Quezon City",Apartment,E. Rodriguez,Quezon City,2100,4,0,12
+1138,"Room for Rent in Batasan Hills, Quezon City",Room,Batasan Hills,Quezon City,4000,4,0,0
+1139,1 Bedroom Apartment in Montalban,Apartment,San Isidro,Quezon City,6000,1,1,0
+1140,"Apartment in San Juan, F. Blumentritt 171 for rent",Apartment,Kabayanan,San Juan,12000,1,1,20
+1141,"1 Bedroom Apartment unit for rent at Balong-Bato, San Juan",Apartment,Balong-Bato,San Juan,10000,1,1,20
+1142,San Juan MM 1 Bedroom /1 bath SAFE GATED COMMUNITY,Room,Pedro Cruz,San Juan,10000,1,1,23
+1143,For Rent: 1-Bedroom at Quadrillion Mansion San Juan City ,Room,Pasadeña,San Juan,18000,1,1,45
+1144,2-Storey Apartment in San Juan City for Rent,Apartment,Balong-Bato,San Juan,13000,1,1,60
+1145,Studio in San Juan Metro Manila/Flood Free,Apartment,Pedro Cruz,San Juan,6500,1,1,0
+1146,"2 Storey Apartment For Rent at Little Baguio, San Juan City",Apartment,Little Baguio,San Juan,20000,2,1,52
+1147,"room for rent - lady boarder in Santa Lucia, San Juan",Room,Santa Lucia,San Juan,3500,2,1,0
+1148,"Apartment For Rent in Corazon de Jesus, San Juan Metro Manila",Apartment,Corazon de Jesus,San Juan,15000,2,1,0
+1152,Studio-Type Apartment for Rent with Wifi in  Brgy Palingon  Tipas Taguig City,Apartment,Palingon,Taguig,5500,1,1,15
+1153,"Apartment for Rent PH1 Lot1 Blk2 AFP-EP Housing Village, Western Bicutan, Taguig",Apartment,Western Bicutan,Taguig,5500,1,1,20
+1154,"Modern Studio Unit available now !!! - Only Php14,500",Apartment,Western Bicutan,Taguig,14500,1,1,20
+1155,"Bedspace For Rent in Taguig with aircon, mattress and WIFI",Bedspace,Katuparan,Taguig,1500,1,1,20
+1156,"KoirenzIssa Apartment for Rent at Pinagsama, Taguig City",Apartment,Pinagsama,Taguig,13000,1,1,20
+1157,"Single room for rent in Taguig city Ridgewood Tower 3, close to McKinley",Room,Ususan,Taguig,16000,1,1,21
+1158,Studio Room for Rent Lower Bicutan,Room,Lower Bicutan,Taguig,6000,1,1,24
+1159,LF: Male tenant @ Morgan suites Mckinley hill condo sharing by 3,Condo,McKinley Hill,Taguig,6000,1,1,25
+1160,Room for Rent Near MCKinley BGC Market Market,Room,Pinagsama,Taguig,10000,1,1,25
+1161,Room for Rent Near C5 Road Taguig Area,Room,Pinagsama,Taguig,8000,1,1,25
+1162,"New one bedroom flat unit for rent at Pinagsama, Taguig City",Flat,Pinagsama,Taguig,1300,1,1,25
+1163,Apartment Unit For Rent at MRB Ususan Taguig City,Apartment,Ususan,Taguig,10000,1,1,30
+1164,1BR Female Condo Sharing at Trion Towers BGC Taguig - Urgent,Condo,Fort Bonifacio,Taguig,11000,1,1,30
+1165,Female Condo sharing at Avida Cityflex BGC,Condo,Fort Bonifacio,Taguig,5800,1,1,32
+1166,"UPDATED - 22K Monthly BGC Apt - One BR, Avida 34th St.; Fully Furnished Condo",Condo,Fort Bonifacio,Taguig,25000,1,1,35
+1167,Room for rent in Makati -Taguig,Room,Pinagsama,Taguig,2500,1,1,35
+1168,Condosharing condo sharing McKinley Hill BGC bonifacio heights condominium,Condo,Fort Bonifacio,Taguig,4500,1,1,35
+1169,BGC Condo Sharing For Female,Condo,Fort Bonifacio,Taguig,6500,1,1,36
+1170,Female Condo share in BGC,Condo,Fort Bonifacio,Taguig,8250,1,1,37
+1171,North Signal Village Taguig City - BedSpace,Bedspace,Signal Village,Taguig,2900,1,1,40
+1172,Fully furnished cottage House container van in BGC for rent,House,Western Bicutan,Taguig,13000,1,1,40
+1173,"Condo Bedspace / Sharing for Rent in Taguig near Mckinley, BGC & Makati",Bedspace,Fort Bonifacio,Taguig,6000,1,1,42
+1175,Bedspace for rent inside BGC Fort Global City and Mckinley Hill,Bedspace,Fort Bonifacio,Taguig,5500,1,1,48
+1176,Loft For Rent Bicutan Tanyag Taguig Lounge Space Aircon Free Wifi TV Queen Size,Loft,Bagong Tanyag,Taguig,10000,1,1,50
+1177,One Bedroom Furnished Apartment in a gated subdivision adjacent to BGC / The Fort,Apartment,Fort Bonifacio,Taguig,20000,1,1,65
+1178,"W Tower BGC -Unit 303 - 1BR, 48sqm, only 600/sqm, owner WGroup, brokers welcome",Condo,Fort Bonifacio,Taguig,28000,1,1,97
+1179,Female condosharing / bedspace in bgc near sharila hotel,Bedspace,Fort Bonifacio,Taguig,8999,1,1,154
+1180,FOR RENT:  Furnished 1BR Apartment for LADIES in Taguig,Apartment,Western Bicutan,Taguig,12500,1,1,0
+1181,"LF Female Bedspacer: Woodridge Residences II, Upper Mckinley Hills Taguig City",Bedspace,McKinley Hill,Taguig,2513,1,1,0
+1182,"Room for rent in #28 - Rosal St. cor. Waling Waling St Sto. Niño, Pinagsama",Room,Pinagsama,Taguig,10000,1,1,0
+1183,Condo Sharing in Avida 34 BGC,Condo,Fort Bonifacio,Taguig,7500,1,1,0
+1184,Studio-type Room Fort Bonifacio Taguig for rent,Room,Fort Bonifacio,Taguig,6000,1,1,0
+1185,"Dormitory/ Bedspacer 79 Katipunan St., Bambang",Bedspace,Bambang,Taguig,2000,1,1,0
+1186,Male bedspace in C5 Taguig near Mckinley hill BGC Market Market,Bedspace,Pinagsama,Taguig,2500,1,1,0
+1187,Newly Built Apartments Near BGC and Acacia Estates,Apartment,San Miguel,Taguig,7000,2,1,30
+1188,"Apartment for rent in taguig near bgc, near makati, near paranaque",Apartment,Ususan,Taguig,18000,2,1,36
+1189,Taguig apartment with car parking space and internet for rent near bgc and arca,Apartment,Lower Bicutan,Taguig,16000,2,1,42
+1190,Bedspace for Female professional in Fort Bonifacio Mckinley Hills BGC Makati,Bedspace,Fort Bonifacio,Taguig,4500,2,1,43
+1191,Bedroom For Rent AFPOVAI Phase 5 near BGC and Airport,Room,Western Bicutan,Taguig,20000,2,1,43
+1193,Bedspace Room Rental Transient Room Share,Bedspace,Fort Bonifacio,Taguig,5500,2,1,48
+1194,2 Bedroom condo for Female bedspacers,Bedspace,Fort Bonifacio,Taguig,6000,2,1,48
+1195,Apartment for Rent / House for Rent,Apartment,Pinagsama,Taguig,20000,2,1,50
+1196,LF: MALE Bedspacer in Bonifacio Heights Condominium BGC Mckinley,Bedspace,Fort Bonifacio,Taguig,5000,2,1,56
+1197,Brand new 2 bedrooms apartments situated in lower bicutan taguig,Apartment,Lower Bicutan,Taguig,11000,2,1,0
+1198,bedspacer in Taguig City,Bedspace,Bambang,Taguig,2000,2000,1,20
+1199,Female Bedspace at North Signal Taguig,Bedspace,Signal Village,Taguig,2000,1,2,35
+1201,Condo Sharing BGC,Condo,McKinley Hill,Taguig,4089,2,2,50
+1202,"2 Bedroom Apartment unit for rent in Maharlika Village, Taguig City",Apartment,Maharlika Village,Taguig,18000,2,2,60
+1206,Bedspace for Rent in Taguig City,Bedspace,Calzada,Taguig,2500,2,2,0
+1207,"Room for Rent at Perpetual Village, Bagong Tanyag, Taguig City",Room,Bagong Tanyag,Taguig,5000,3,2,20
+1208,Near Taguig 3 Bedroom Newly Refurbished,Room,Ususan,Taguig,30000,3,2,50
+1209,Condo Sharing Bedspace Room For Rent Mckinley BGC Market Market Sm Aura Taguig,Bedspace,Ususan,Taguig,5700,3,2,62
+1210,Condo Sharing / Bedspace in McKinley - BGC Taguig,Bedspace,Ususan,Taguig,5700,3,2,0
+1211,Lady Bedspace at Western Bicutan Taguig,Bedspace,Western Bicutan,Taguig,2000,10,2,527
+1213,For Rent Bedspace for Ladies in AFPOVAI Fort Bonifacio in Western Bicutan Taguig,Bedspace,Western Bicutan,Taguig,2000,5,4,190
+1215,Brand New rooms at Waterfun (housing) for rent,Room,Pinagsama,Taguig,9000,12,12,14
+1216,Looking for Bedspacer (Any pref) at Stamford Executive Residences - Mckinley,Bedspace,McKinley Hill,Taguig,5666,1,0,0
+1217,"Brand New Apartment for Rent Karuhatan, Valenzuela City SM Fatima",Apartment,Karuhatan,Valenzuela,9000,1,1,20
+1218,"Brand New Apartment for Rent Karuhatan, Valenzuela City SM Fatima",Apartment,Karuhatan,Valenzuela,9000,1,1,20
+1219,Fully Furnished Apartment for Rent in 927 Saint Valenzuela FloodFree,Apartment,Malinta,Valenzuela,14000,1,1,30
+1220,"1 Bedroom Apartment For Rent in Sumilang Subdivision, Valenzuela City",Apartment,Dalandanan,Valenzuela,6000,1,1,30
+1221,Apartment olfu marulas Valenzuela,Apartment,Marulas,Valenzuela,6500,1,1,0
+1222,"Studio Apartment for Rent at Karuhatan, Valenzuela City",Apartment,Karuhatan,Valenzuela,5500,1,1,0
+1223,Apartment OLFU marulas Valenzuela,Apartment,Marulas,Valenzuela,6500,1,1,0
+1224,apartment valenzuela marulas for rent,Apartment,Marulas,Valenzuela,6500,1,1,0
+1225,Apartment Marulas Fatima Valenzuela,Apartment,Marulas,Valenzuela,6500,1,1,0
+1226,Apartment OLFU Marulas Valenzuela,Apartment,Marulas,Valenzuela,6500,1,1,0
+1227,Apartment Valenzuela Marulas,Apartment,Marulas,Valenzuela,6500,1,1,0
+1228,"Studio Apartment for Rent at Karuhatan, Valenzuela City",Apartment,Karuhatan,Valenzuela,5500,1,1,0
+1229,"2 Bedroom apartment with garage in Serrano Subdivision Marulas, Valenzuela",Apartment,Marulas,Valenzuela,18000,2,1,54
+1230,Condo Sharing for Rent in Isabelle De Valenzuela,Condo,Marulas,Valenzuela,7000,3,1,12
+1231,Apartment for Rent: Malinta (McArthur Hwy)Valenzuela City(with garage),Apartment,Malinta,Valenzuela,11000,2,2,50
+1232,"Bedspace for Ladies, Las Pinas",Bedspace,,Las Pinas,2500,1,1,13
+1235,Room for Rent Makati,Room,,Makati,12000,1,0,25
+1238,Studio type room,Room,Mandaluyong,Mandaluyong,6000,1,1,15
+1239,"Bedspace for Working Ladies, Mandaluyong",Bedspace,,Mandaluyong,3500,1,1,0
+1240,Bedspace for rent for Male only in Mandaluyong,Bedspace,,Mandaluyong,3500,1,1,0
+1241,Mandaluyong Condo Share ( Dorm Type),Condo,,Mandaluyong,3500,2,1,35
+1242,Mandaluyong Male Bedspacers,Bedspace,,Mandaluyong,3500,1,0,0
+1243,Mandaluyong Inn Rooms for Lease near Makati - Mandaluyong Bridge,Room,Mandaluyong,Mandaluyong,8500,19,0,0
+1244,Apartment Unit for Rent 50sqm Floor Area at Manila,Apartment,San Miguel,Manila,25000,1,1,50
+1247,Male Bedspace Makati Manila Area 1900 All in,Bedspace,,Manila,1900,2,2,0
+1249,Wanted: Lady Bedspacer in Sto. Nino Paranaque City,Bedspace,Santo Nino,Paranaque,2500,1,1,9
+1250,"Room for rent, close to SM Bicutan, Paranaque, near airport and BGC",Room,Sun Valley,Paranaque,4000,1,1,12
+1251,Wanted: Lady Bedspacer in Sto. Nino Paranaque City,Bedspace,Santo Niño,Paranaque,2000,1,1,12
+1252,"Wanted Lady Bedspacer for rent in Santo Niño,Paranaque City",Bedspace,Santo Niño,Paranaque,2500,1,1,12
+1253,Room for Rent in Tinzel HomesParanaque,Room,San Martin de Porres,Paranaque,5000,1,1,15
+1254,Semi Furnished Studio Room for Rent,Room,San Antonio,Paranaque,7000,1,1,18
+1255,"Apartment for rent in SAV1, San Antonio, Paranaque City",Apartment,San Antonio,Paranaque,6900,1,1,20
+1256,Studio type Apartment for Rent inside merville Subdivision in Paranaque,Apartment,Merville,Paranaque,7995,1,1,20
+1257,"Room for rent in San Isidro, Paranaque City",Room,San Isidro,Paranaque,4000,1,1,20
+1258,Room for rent in Merville Paranaque (for male only),Room,Merville,Paranaque,4500,1,1,25
+1259,"For Rent Unique Studio House inParanaque City, Metro Manila",Apartment,Don Bosco,Paranaque,12000,1,1,30
+1260,MALE Bed Space for a Fully Furnished Unit at Fountain Breeze,Condo,San Isidro,Paranaque,3500,1,1,30
+1261,"For Rent Unique Studio House inParanaque City, Metro Manila",Apartment,Don Bosco,Paranaque,12000,1,1,30
+1262,Salvador Estate toilet and kitchen studio room 5500,Room,San Isidro,Paranaque,5500,1,1,35
+1263,"Studio Type Room with Toilet and Kitchen Walking Distance to Lianas, Waltermart",Room,San Isidro,Paranaque,6500,1,1,35
+1264,1 Bedroom Apartment For Rent at Sun Valley Paranaque near Amaia Steps Bicutan,Apartment,Sun Valley,Paranaque,8500,1,1,36
+1266,Apartment for Lease in Baclaran (Parañaque),Apartment,Baclaran,Paranaque,7500,1,1,37
+1268,Apartment For Rent in MoonwalkParanaque near NAIA and C-5 Ext,Apartment,Moonwalk,Paranaque,10000,1,1,40
+1269,"One Bedroom Unit w/ Pantry and T&B at San Antonio Valley 1, PQUE @ P8K per month",Room,San Antonio,Paranaque,8000,1,1,40
+1270,"Room for Rent Good for Two Persons at Parkview Homes, Brgy. SunValley,Paranaque",Room,Sun Valley,Paranaque,6000,1,1,100
+1271,"Room for Rent Good for Two Persons at Parkview Homes, Brgy. SunValley,Paranaque",Room,Sun Valley,Paranaque,6000,1,1,100
+1273,"Studio Type Apartment unit for Rent in San Isidro,Paranaque City",Apartment,San Isidro,Paranaque,7000,1,1,0
+1274,Merville Apartment For Rent,Apartment,Merville,Paranaque,3500,1,1,0
+1275,Capsule room for rent near airport MOA COD BaclaranParanaque,Room,Baclaran,Paranaque,2250,1,1,0
+1276,Room in Baclaran near City of Dreams for Rent,Room,Baclaran,Paranaque,4000,1,1,0
+1277,Santos Apartments - Don Galo -Semi Furnished 2-Storey House for 3-4 persons only,Apartment,Don Galo,Paranaque,13000,2,1,60
+1278,Brand New Nice 2-Bedroom Semi-Furnished Apartment Unit For Rent inParanaque,Apartment,Marcelo Green Village,Paranaque,25000,2,1,100
+1279,Brand New Nice 2-Bedroom Semi-Furnished Apartment Unit For Rent inParanaque,Apartment,Marcelo Green Village,Paranaque,25000,2,1,100
+1280,2 Bedroom apartment with parking for rent,Apartment,Don Bosco,Paranaque,14000,2,1,0
+1281,2 Bedroom apartment with parking for rent,Apartment,Don Bosco,Paranaque,14000,2,1,0
+1282,"For Rent 3 Bedroom Apartment with Large Space 120 sqm,Paranaque",Apartment,Don Bosco,Paranaque,14000,3,1,100
+1283,"For Rent 3 Bedroom Apartment with Large Space 120 sqm,Paranaque",Apartment,Don Bosco,Paranaque,14000,3,1,100
+1284,Bedspace in B.F. Paranaque for Rent,Bedspace,B.F. Homes,Paranaque,3900,4,1,25
+1285,"Men bedspace with living room, dining room, smart tv with netflix, and wifi",Bedspace,B.F. Homes,Paranaque,3000,1,2,28
+1286,"2 bedroom apartment for rent in Marimar Village 2, Bicutan, Paranaque City",Apartment,Sun Valley,Paranaque,28000,2,2,25
+1287,Field Residences 2 Bedroom For Rent,Room,San Dionisio,Paranaque,28000,2,2,55
+1288,2 bedroom House for Rent Multinational VillageParanaque near Airport,Room,Moonwalk,Paranaque,25000,2,2,80
+1289,"2 Bedroom Apartment for rent, near Commercial area on a Subdivision inParanaque",Apartment,B.F. Homes,Paranaque,20000,2,2,100
+1290,for rent: brand new !!! 4br apartment inParanaque,Apartment,San Isidro,Paranaque,30000,4,2,120
+1291,Male and Female Dormitory with FREE 100 MBPS WIFI and BILLS INCLUDED,Dormitory,San Isidro,Paranaque,3500,6,4,0
+1297,Lady Bedspace in Sucat Paranaque Near SM BF,Bedspace,B.F. Homes,Paranaque,2000,1,0,0
+1298,Lady Bedspace - Baclaran Paranaque,Bedspace,Baclaran,Paranaque,2300,6,0,0
+1299,Studio type Room For Rent,Room,,Pasay,10000,1,1,15
+1300,Female Bedspace for Working Professionals,Bedspace,Pasay,Pasay,3650,1,1,0
+1301,Apartment or Room for Rent in Pasay City,Apartment,Pasay,Pasay,7500,1,1,0
+1302,Male Bedspace near MRT Taft and Mall of Asia,Bedspace,Pasay,Pasay,3500,1,1,0
+1306,Room for Rent near Ortigas 4k,Room,Pasig,Pasig,4000,1,2,10
+1309,Bedspace for ladies PASIG,Bedspace,,Pasig,3500,1,0,0
+1310,Pasig Shaw Estancia Kapitolyo Bedspace for rent,Bedspace,,Pateros,2500,1,1,0
+1311,Room for Rent at Quezon City,Room,Quezon City,Quezon City,6500,1,1,0
+1312,Quezon City Apartment for Rent,Apartment,,Quezon City,25000,3,2,0
+1313,Studio in Building for Rent - makati Staffhouse,Staffhouse,Makati,Makati,10000,1,1,15
+1314,"Studio Type Room for Rent, Makati",Room,Makati,Makati,12880,1,1,0
